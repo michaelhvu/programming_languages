@@ -1,0 +1,5 @@
+Type	Address	City	Zip	Price	Beds	Baths	Location	Sqft	Lot size	YrBlt	DOM	$/SqFt	HOA/mth	Rank Grp	Percnt SqFt
+Single Family Residential	10240 Dawson Trl	Fort Worth	76108	$179,900	3.0	2.5	Westview Add	1,844	5,314	2002	4	$98	$0	3	96.7
+Single Family Residential	1513 Wind Star Way	Fort Worth	76108	$181,000	3.0	2.0	Amber Trails Fort Worth	2,073	5,489	2005	12	$87	$23	3	85.8
+Single Family Residential	2504 Nogales Dr	Fort Worth	76108	$194,000	3.0	2.0	Little Chapel Creek Add	1,880	5,227	2001	20	$103	$0	3	101.6
+Single Family Residential	4836 Lemon Grove Dr	Fort Worth	76135	$195,000	3.0	2.0	Meadow Lakes	2,107	5,097	2006	25	$93	$0	3	95.4

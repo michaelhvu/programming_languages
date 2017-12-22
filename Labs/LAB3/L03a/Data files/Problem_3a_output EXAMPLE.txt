@@ -1,0 +1,1580 @@
+County	City	Zip Type	City Pop	First Zip	No. Zips	County Pop
+Alameda County	Alameda	STANDARD	70,980	94501	2	70,980
+Alameda County	Albany	STANDARD	17,650	94706	1	17,650
+Alameda County	Berkeley	PO BOX	797	94701	2	89,553
+		STANDARD	88,230	94702	8
+		UNIQUE	526	94720	1
+Alameda County	Castro Valley	STANDARD	56,930	94546	2	56,930
+Alameda County	Dublin	STANDARD	52,930	94568	1	52,930
+Alameda County	Emeryville	PO BOX	504	94662	1	25,114
+		STANDARD	24,610	94608	1
+Alameda County	Fremont	PO BOX	975	94537	1	219,505
+		STANDARD	218,530	94536	4
+Alameda County	Hayward	PO BOX	1,492	94540	3	185,142
+		STANDARD	183,650	94541	4
+Alameda County	Livermore	STANDARD	88,240	94550	2	88,240
+Alameda County	Newark	STANDARD	44,340	94560	1	44,340
+Alameda County	Oakland	PO BOX	2,723	94604	6	362,457
+		STANDARD	359,734	94601	15
+		UNIQUE	0	94622	6
+Alameda County	Piedmont	PO BOX	500	94620	1	500
+Alameda County	Pleasanton	STANDARD	77,230	94566	2	77,230
+Alameda County	San Leandro	STANDARD	104,680	94577	3	104,680
+Alameda County	San Lorenzo	STANDARD	28,180	94580	1	28,180
+Alameda County	Sunol	STANDARD	960	94586	1	960
+Alameda County	Union City	STANDARD	70,540	94587	1	70,540
+Alpine County	Kirkwood	PO BOX	127	95646	1	127
+Alpine County	Markleeville	STANDARD	690	96120	1	690
+Alpine County	South Lake Tahoe	PO BOX	3,718	96156	1	3,718
+Amador County	Amador City	PO BOX	241	95601	1	241
+Amador County	Drytown	PO BOX	102	95699	1	102
+Amador County	Fiddletown	STANDARD	780	95629	1	780
+Amador County	Ione	STANDARD	6,990	95640	1	6,990
+Amador County	Jackson	STANDARD	6,430	95642	1	6,430
+Amador County	Martell	PO BOX	39	95654	1	39
+Amador County	Pine Grove	STANDARD	3,930	95665	1	3,930
+Amador County	Pioneer	STANDARD	3,920	95666	1	3,920
+Amador County	Plymouth	STANDARD	2,290	95669	1	2,290
+Amador County	River Pines	PO BOX	333	95675	1	333
+Amador County	Sutter Creek	STANDARD	4,120	95685	1	4,120
+Amador County	Volcano	STANDARD	1,060	95689	1	1,060
+Butte County	Bangor	STANDARD	730	95914	1	730
+Butte County	Berry Creek	STANDARD	850	95916	1	850
+Butte County	Biggs	STANDARD	2,830	95917	1	2,830
+Butte County	Chico	PO BOX	3,877	95927	1	84,260
+		STANDARD	80,340	95926	3
+		UNIQUE	43	95929	2
+Butte County	Clipper Mills	STANDARD	201	95930	1	201
+Butte County	Durham	STANDARD	3,930	95938	1	3,930
+Butte County	Feather Falls	PO BOX	70	95940	1	70
+Butte County	Forbestown	STANDARD	320	95941	1	320
+Butte County	Forest Ranch	STANDARD	1,180	95942	1	1,180
+Butte County	Gridley	STANDARD	10,190	95948	1	10,190
+Butte County	Magalia	STANDARD	8,570	95954	1	8,570
+Butte County	Nelson	PO BOX	63	95958	1	63
+Butte County	Oroville	STANDARD	36,300	95965	2	36,300
+Butte County	Palermo	STANDARD	1,730	95968	1	1,730
+Butte County	Paradise	PO BOX	2,144	95967	1	22,494
+		STANDARD	20,350	95969	1
+Butte County	Richvale	PO BOX	352	95974	1	352
+Butte County	Stirling City	PO BOX	173	95978	1	173
+Calaveras County	Altaville	PO BOX	1,554	95221	1	1,554
+Calaveras County	Angels Camp	STANDARD	3,230	95222	1	3,230
+Calaveras County	Arnold	STANDARD	3,040	95223	1	3,040
+Calaveras County	Avery	PO BOX	631	95224	1	631
+Calaveras County	Burson	PO BOX	786	95225	1	786
+Calaveras County	Campo Seco	PO BOX	49	95226	1	49
+Calaveras County	Copperopolis	STANDARD	3,470	95228	1	3,470
+Calaveras County	Douglas Flat	PO BOX	93	95229	1	93
+Calaveras County	Glencoe	STANDARD	210	95232	1	210
+Calaveras County	Hathaway Pines	PO BOX	406	95233	1	406
+Calaveras County	Mokelumne Hill	STANDARD	1,380	95245	1	1,380
+Calaveras County	Mountain Ranch	STANDARD	1,260	95246	1	1,260
+Calaveras County	Murphys	STANDARD	3,670	95247	1	3,670
+Calaveras County	Rail Road Flat	PO BOX	416	95248	1	416
+Calaveras County	San Andreas	STANDARD	3,238	95249	2	3,238
+Calaveras County	Vallecito	STANDARD	540	95251	1	540
+Calaveras County	Valley Springs	STANDARD	11,510	95252	1	11,510
+Calaveras County	Wallace	PO BOX	698	95254	1	698
+Calaveras County	West Point	STANDARD	1,190	95255	1	1,190
+Calaveras County	Wilseyville	STANDARD	310	95257	1	310
+Colusa County	Arbuckle	STANDARD	5,830	95912	1	5,830
+Colusa County	Colusa	STANDARD	7,590	95932	1	7,590
+Colusa County	Grimes	PO BOX	612	95950	1	612
+Colusa County	Maxwell	PO BOX	1,456	95955	1	1,456
+Colusa County	Princeton	STANDARD	480	95970	1	480
+Colusa County	Stonyford	STANDARD	340	95979	1	340
+Colusa County	Williams	STANDARD	7,570	95987	1	7,570
+Contra Costa County	Alamo	STANDARD	15,440	94507	1	15,440
+Contra Costa County	Antioch	STANDARD	100,780	94509	2	100,780
+Contra Costa County	Bethel Island	PO BOX	1,734	94511	1	1,734
+Contra Costa County	Brentwood	STANDARD	58,090	94513	1	58,090
+Contra Costa County	Byron	STANDARD	1,140	94514	1	1,140
+Contra Costa County	Canyon	PO BOX	242	94516	1	242
+Contra Costa County	Clayton	STANDARD	12,340	94517	1	12,340
+Contra Costa County	Concord	PO BOX	1,692	94522	3	121,212
+		STANDARD	119,520	94518	4
+		UNIQUE	0	94529	1
+Contra Costa County	Crockett	STANDARD	2,780	94525	1	2,780
+Contra Costa County	Danville	STANDARD	56,960	94506	2	56,960
+Contra Costa County	Diablo	PO BOX	1,216	94528	1	1,216
+Contra Costa County	Discovery Bay	STANDARD	13,020	94505	1	13,020
+Contra Costa County	El Cerrito	STANDARD	23,770	94530	1	23,770
+Contra Costa County	El Sobrante	PO BOX	749	94820	1	23,959
+		STANDARD	23,210	94803	1
+Contra Costa County	Hercules	STANDARD	24,130	94547	1	24,130
+Contra Costa County	Knightsen	PO BOX	829	94548	1	829
+Contra Costa County	Lafayette	STANDARD	28,010	94549	1	28,010
+Contra Costa County	Martinez	STANDARD	44,440	94553	1	44,440
+Contra Costa County	Moraga	PO BOX	318	94570	2	15,228
+		STANDARD	14,910	94556	1
+Contra Costa County	Oakley	STANDARD	38,340	94561	1	38,340
+Contra Costa County	Orinda	STANDARD	18,930	94563	1	18,930
+Contra Costa County	Pinole	STANDARD	18,190	94564	1	18,190
+Contra Costa County	Pittsburg	STANDARD	88,610	94565	1	88,610
+Contra Costa County	Pleasant Hill	STANDARD	31,400	94523	1	31,400
+Contra Costa County	Port Costa	PO BOX	199	94569	1	199
+Contra Costa County	Richmond	PO BOX	1,275	94802	3	80,805
+		STANDARD	79,530	94801	4
+Contra Costa County	Rodeo	STANDARD	8,230	94572	1	8,230
+Contra Costa County	San Pablo	STANDARD	57,810	94806	1	57,810
+Contra Costa County	San Ramon	STANDARD	91,420	94582	2	91,420
+Contra Costa County	Walnut Creek	STANDARD	83,390	94595	4	83,390
+Del Norte County	Crescent City	STANDARD	15,460	95531	1	15,477
+		UNIQUE	17	95532	1
+Del Norte County	Fort Dick	PO BOX	545	95538	1	545
+Del Norte County	Gasquet	STANDARD	520	95543	1	520
+Del Norte County	Klamath	STANDARD	710	95548	1	710
+Del Norte County	Smith River	STANDARD	1,850	95567	1	1,850
+El Dorado County	Camino	STANDARD	4,450	95709	1	4,450
+El Dorado County	Coloma	PO BOX	498	95613	1	498
+El Dorado County	Cool	STANDARD	3,580	95614	1	3,580
+El Dorado County	Diamond Springs	STANDARD	4,800	95619	1	4,800
+El Dorado County	Echo Lake	PO BOX	0	95721	1	0
+El Dorado County	El Dorado	STANDARD	4,220	95623	1	4,220
+El Dorado County	El Dorado Hills	STANDARD	41,090	95762	1	41,090
+El Dorado County	Garden Valley	STANDARD	2,630	95633	1	2,630
+El Dorado County	Georgetown	STANDARD	2,590	95634	1	2,590
+El Dorado County	Greenwood	STANDARD	930	95635	1	930
+El Dorado County	Grizzly Flats	STANDARD	760	95636	1	760
+El Dorado County	Kit Carson	PO BOX	0	95644	1	0
+El Dorado County	Kyburz	STANDARD	85	95720	1	85
+El Dorado County	Lotus	STANDARD	700	95651	1	700
+El Dorado County	Mount Aukum	PO BOX	725	95656	1	725
+El Dorado County	Pilot Hill	STANDARD	1,150	95664	1	1,150
+El Dorado County	Placerville	STANDARD	31,300	95667	1	31,300
+El Dorado County	Pollock Pines	STANDARD	7,180	95726	1	7,180
+El Dorado County	Rescue	STANDARD	4,410	95672	1	4,410
+El Dorado County	Shingle Springs	STANDARD	28,020	95682	1	28,020
+El Dorado County	Somerset	STANDARD	2,260	95684	1	2,260
+El Dorado County	South Lake Tahoe	PO BOX	10,903	96151	6	23,673
+		STANDARD	12,770	96150	1
+El Dorado County	Tahoma	PO BOX	612	96142	1	612
+El Dorado County	Twin Bridges	STANDARD	75	95735	1	75
+Fresno County	Auberry	STANDARD	2,900	93602	1	2,900
+Fresno County	Big Creek	PO BOX	222	93605	1	222
+Fresno County	Biola	PO BOX	1,550	93606	1	1,550
+Fresno County	Burrel	PO BOX	234	93607	1	234
+Fresno County	Cantua Creek	STANDARD	1,510	93608	1	1,510
+Fresno County	Caruthers	STANDARD	5,830	93609	1	5,830
+Fresno County	Clovis	PO BOX	2,064	93613	1	108,064
+		STANDARD	106,000	93611	3
+Fresno County	Coalinga	STANDARD	12,200	93210	1	12,200
+Fresno County	Del Rey	STANDARD	2,540	93616	1	2,540
+Fresno County	Dunlap	STANDARD	380	93621	1	380
+Fresno County	Firebaugh	STANDARD	10,410	93622	1	10,410
+Fresno County	Five Points	PO BOX	1,559	93624	1	1,559
+Fresno County	Fowler	STANDARD	7,380	93625	1	7,380
+Fresno County	Fresno	PO BOX	6,204	93707	28	508,621
+		STANDARD	501,990	93650	19
+		UNIQUE	427	93724	13
+Fresno County	Friant	STANDARD	1,540	93626	1	1,540
+Fresno County	Helm	PO BOX	293	93627	1	293
+Fresno County	Hume	STANDARD	270	93628	1	270
+Fresno County	Huron	STANDARD	5,342	93234	1	5,342
+Fresno County	Kerman	STANDARD	19,710	93630	1	19,710
+Fresno County	Kingsburg	STANDARD	15,570	93631	1	15,570
+Fresno County	Lakeshore	PO BOX	51	93634	1	51
+Fresno County	Laton	STANDARD	3,780	93242	1	3,780
+Fresno County	Mendota	STANDARD	16,040	93640	1	16,040
+Fresno County	Miramonte	STANDARD	280	93641	1	280
+Fresno County	Mono Hot Springs	PO BOX	0	93642	1	0
+Fresno County	Orange Cove	STANDARD	9,510	93646	1	9,510
+Fresno County	Parlier	STANDARD	16,390	93648	1	16,390
+Fresno County	Piedra	PO BOX	170	93649	1	170
+Fresno County	Prather	STANDARD	1,670	93651	1	1,670
+Fresno County	Raisin City	STANDARD	820	93652	1	820
+Fresno County	Reedley	STANDARD	31,200	93654	1	31,200
+Fresno County	Riverdale	STANDARD	6,220	93656	1	6,220
+Fresno County	San Joaquin	STANDARD	4,850	93660	1	4,850
+Fresno County	Sanger	STANDARD	33,750	93657	1	33,750
+Fresno County	Selma	STANDARD	30,780	93662	1	30,780
+Fresno County	Shaver Lake	STANDARD	610	93664	1	610
+Fresno County	Squaw Valley	STANDARD	2,800	93675	1	2,800
+Fresno County	Tollhouse	STANDARD	2,090	93667	1	2,090
+Fresno County	Tranquillity	STANDARD	1,170	93668	1	1,170
+Glenn County	Artois	PO BOX	476	95913	1	476
+Glenn County	Butte City	STANDARD	280	95920	1	280
+Glenn County	Elk Creek	STANDARD	270	95939	1	270
+Glenn County	Glenn	STANDARD	760	95943	1	760
+Glenn County	Hamilton City	PO BOX	2,714	95951	1	2,714
+Glenn County	Orland	STANDARD	14,400	95963	1	14,400
+Glenn County	Willows	STANDARD	7,860	95988	1	7,860
+Humboldt County	Alderpoint	STANDARD	190	95511	1	190
+Humboldt County	Arcata	PO BOX	1,515	95518	1	13,015
+		STANDARD	11,500	95521	1
+Humboldt County	Bayside	STANDARD	1,760	95524	1	1,760
+Humboldt County	Blocksburg	STANDARD	148	95514	1	148
+Humboldt County	Blue Lake	STANDARD	1,460	95525	1	1,460
+Humboldt County	Bridgeville	STANDARD	340	95526	1	340
+Humboldt County	Carlotta	STANDARD	740	95528	1	740
+Humboldt County	Cutten	PO BOX	350	95534	1	350
+Humboldt County	Eureka	PO BOX	2,947	95502	1	37,627
+		STANDARD	34,680	95501	2
+Humboldt County	Ferndale	STANDARD	2,510	95536	1	2,510
+Humboldt County	Fields Landing	PO BOX	293	95537	1	293
+Humboldt County	Fortuna	STANDARD	11,300	95540	1	11,300
+Humboldt County	Garberville	STANDARD	1,560	95542	1	1,560
+Humboldt County	Honeydew	PO BOX	89	95545	1	89
+Humboldt County	Hoopa	STANDARD	2,240	95546	1	2,240
+Humboldt County	Hydesville	STANDARD	1,080	95547	1	1,080
+Humboldt County	Kneeland	STANDARD	630	95549	1	630
+Humboldt County	Korbel	STANDARD	159	95550	1	159
+Humboldt County	Loleta	STANDARD	1,320	95551	1	1,320
+Humboldt County	Mckinleyville	STANDARD	14,290	95519	1	14,290
+Humboldt County	Miranda	PO BOX	605	95553	1	605
+Humboldt County	Myers Flat	STANDARD	300	95554	1	300
+Humboldt County	Orick	STANDARD	291	95555	1	291
+Humboldt County	Orleans	PO BOX	382	95556	1	382
+Humboldt County	Petrolia	STANDARD	270	95558	1	270
+Humboldt County	Phillipsville	PO BOX	142	95559	1	142
+Humboldt County	Redcrest	STANDARD	206	95569	1	206
+Humboldt County	Redway	STANDARD	1,890	95560	1	1,890
+Humboldt County	Rio Dell	STANDARD	2,480	95562	1	2,480
+Humboldt County	Samoa	STANDARD	300	95564	1	300
+Humboldt County	Scotia	STANDARD	880	95565	1	880
+Humboldt County	Trinidad	STANDARD	1,980	95570	1	1,980
+Humboldt County	Weott	PO BOX	247	95571	1	247
+Humboldt County	Whitethorn	STANDARD	790	95589	1	790
+Humboldt County	Willow Creek	STANDARD	1,410	95573	1	1,410
+Imperial County	Bard	PO BOX	202	92222	1	202
+Imperial County	Brawley	STANDARD	25,150	92227	1	25,150
+Imperial County	Calexico	PO BOX	4,115	92232	1	68,255
+		STANDARD	64,140	92231	1
+Imperial County	Calipatria	STANDARD	3,560	92233	1	3,560
+Imperial County	El Centro	PO BOX	2,539	92244	1	48,779
+		STANDARD	46,240	92243	1
+Imperial County	Heber	STANDARD	8,270	92249	1	8,270
+Imperial County	Holtville	STANDARD	8,040	92250	1	8,040
+Imperial County	Imperial	STANDARD	19,560	92251	1	19,560
+Imperial County	Niland	STANDARD	1,090	92257	1	1,090
+Imperial County	Ocotillo	PO BOX	315	92259	1	315
+Imperial County	Palo Verde	PO BOX	248	92266	1	248
+Imperial County	Salton City	PO BOX	842	92275	1	842
+Imperial County	Seeley	PO BOX	1,880	92273	1	1,880
+Imperial County	Westmorland	STANDARD	2,230	92281	1	2,230
+Imperial County	Winterhaven	STANDARD	2,530	92283	1	2,530
+Inyo County	Big Pine	STANDARD	1,490	93513	1	1,490
+Inyo County	Bishop	PO BOX	1,355	93515	1	12,585
+		STANDARD	11,230	93514	1
+Inyo County	Darwin	PO BOX	24	93522	1	24
+Inyo County	Death Valley	STANDARD	300	92328	1	300
+Inyo County	Independence	STANDARD	540	93526	1	540
+Inyo County	Keeler	PO BOX	53	93530	1	53
+Inyo County	Little Lake	PO BOX	0	93542	1	0
+Inyo County	Lone Pine	STANDARD	1,770	93545	1	1,770
+Inyo County	Olancha	PO BOX	274	93549	1	274
+Inyo County	Shoshone	PO BOX	32	92384	1	32
+Inyo County	Tecopa	PO BOX	48	92389	1	48
+Inyo County	Trona	PO BOX	133	93592	1	133
+Kern County	Arvin	STANDARD	24,260	93203	1	24,260
+Kern County	Bakersfield	PO BOX	9,752	93302	11	498,912
+		STANDARD	489,160	93301	13
+Kern County	Bodfish	STANDARD	1,180	93205	1	1,180
+Kern County	Boron	PO BOX	242	93596	1	1,512
+		STANDARD	1,270	93516	1
+Kern County	Buttonwillow	STANDARD	2,400	93206	1	2,400
+Kern County	Caliente	STANDARD	830	93518	1	830
+Kern County	California City	PO BOX	591	93504	1	9,461
+		STANDARD	8,870	93505	1
+Kern County	Cantil	PO BOX	17	93519	1	17
+Kern County	Delano	PO BOX	2,638	93216	1	48,668
+		STANDARD	46,030	93215	1
+Kern County	Edison	PO BOX	355	93220	1	355
+Kern County	Edwards	STANDARD	3,360	93523	1	3,653
+		UNIQUE	293	93524	1
+Kern County	Fellows	STANDARD	360	93224	1	360
+Kern County	Frazier Park	STANDARD	3,910	93225	1	3,910
+Kern County	Glennville	STANDARD	230	93226	1	230
+Kern County	Inyokern	STANDARD	1,720	93527	1	1,720
+Kern County	Johannesburg	PO BOX	98	93528	1	98
+Kern County	Keene	STANDARD	480	93531	1	480
+Kern County	Kernville	STANDARD	1,210	93238	1	1,210
+Kern County	Lake Isabella	STANDARD	4,250	93240	1	4,250
+Kern County	Lamont	STANDARD	19,660	93241	1	19,660
+Kern County	Lebec	STANDARD	1,190	93243	1	1,190
+Kern County	Lost Hills	STANDARD	3,920	93249	1	3,920
+Kern County	Maricopa	STANDARD	1,150	93252	1	1,150
+Kern County	Mc Farland	STANDARD	14,050	93250	1	14,050
+Kern County	Mc Kittrick	STANDARD	206	93251	1	206
+Kern County	Mojave	PO BOX	472	93502	1	4,112
+		STANDARD	3,640	93501	1
+Kern County	Onyx	STANDARD	350	93255	1	350
+Kern County	Pine Mountain Club	PO BOX	1,783	93222	1	1,783
+Kern County	Randsburg	PO BOX	65	93554	1	65
+Kern County	Ridgecrest	PO BOX	1,547	93556	1	29,257
+		STANDARD	27,710	93555	1
+Kern County	Rosamond	STANDARD	17,170	93560	1	17,170
+Kern County	Shafter	STANDARD	21,270	93263	1	21,270
+Kern County	Taft	STANDARD	15,730	93268	1	15,730
+Kern County	Tehachapi	PO BOX	2,077	93581	1	27,257
+		STANDARD	25,180	93561	1
+Kern County	Tupman	PO BOX	158	93276	1	158
+Kern County	Wasco	STANDARD	22,680	93280	1	22,680
+Kern County	Weldon	STANDARD	1,140	93283	1	1,140
+Kern County	Wofford Heights	STANDARD	1,380	93285	1	1,380
+Kern County	Woody	STANDARD	172	93287	1	172
+Kings County	Armona	STANDARD	3,940	93202	1	3,940
+Kings County	Avenal	STANDARD	12,520	93204	1	12,520
+Kings County	Corcoran	STANDARD	13,800	93212	1	13,800
+Kings County	Hanford	PO BOX	1,652	93232	1	59,902
+		STANDARD	58,250	93230	1
+Kings County	Kettleman City	STANDARD	1,790	93239	1	1,790
+Kings County	Lemoore	STANDARD	33,790	93245	1	34,556
+		UNIQUE	766	93246	1
+Kings County	Stratford	STANDARD	1,660	93266	1	1,660
+Lake County	Clearlake	STANDARD	9,810	95422	1	9,810
+Lake County	Clearlake Oaks	STANDARD	2,250	95423	1	2,250
+Lake County	Clearlake Park	PO BOX	474	95424	1	474
+Lake County	Cobb	PO BOX	2,051	95426	1	2,051
+Lake County	Finley	PO BOX	748	95435	1	748
+Lake County	Glenhaven	STANDARD	172	95443	1	172
+Lake County	Hidden Valley Lake	STANDARD	4,550	95467	1	4,550
+Lake County	Kelseyville	STANDARD	9,110	95451	1	9,110
+Lake County	Lakeport	STANDARD	8,890	95453	1	8,890
+Lake County	Lower Lake	STANDARD	2,850	95457	1	2,850
+Lake County	Lucerne	STANDARD	1,730	95458	1	1,730
+Lake County	Middletown	STANDARD	3,270	95461	1	3,270
+Lake County	Nice	STANDARD	1,520	95464	1	1,520
+Lake County	Upper Lake	STANDARD	1,970	95485	1	1,970
+Lake County	Witter Springs	STANDARD	140	95493	1	140
+Lassen County	Bieber	PO BOX	476	96009	1	476
+Lassen County	Doyle	STANDARD	640	96109	1	640
+Lassen County	Herlong	PO BOX	916	96113	1	916
+Lassen County	Janesville	STANDARD	2,600	96114	1	2,600
+Lassen County	Litchfield	STANDARD	280	96117	1	280
+Lassen County	Madeline	PO BOX	51	96119	1	51
+Lassen County	Milford	STANDARD	320	96121	1	320
+Lassen County	Nubieber	PO BOX	65	96068	1	65
+Lassen County	Ravendale	STANDARD	51	96123	1	51
+Lassen County	Standish	STANDARD	520	96128	1	520
+Lassen County	Susanville	PO BOX	577	96127	1	12,677
+		STANDARD	12,100	96130	1
+Lassen County	Termo	STANDARD	25	96132	1	25
+Lassen County	Wendel	STANDARD	74	96136	1	74
+Lassen County	Westwood	STANDARD	2,320	96137	1	2,320
+Los Angeles County	Acton	STANDARD	6,840	93510	1	6,840
+Los Angeles County	Agoura Hills	PO BOX	687	91376	1	25,017
+		STANDARD	24,330	91301	1
+Los Angeles County	Alhambra	PO BOX	1,640	91802	3	75,530
+		STANDARD	73,890	91801	3
+		UNIQUE	0	91841	1
+Los Angeles County	Altadena	PO BOX	464	91003	1	33,924
+		STANDARD	33,460	91001	1
+Los Angeles County	Arcadia	PO BOX	1,267	91066	2	59,927
+		STANDARD	58,660	91006	2
+Los Angeles County	Artesia	PO BOX	582	90702	1	16,162
+		STANDARD	15,580	90701	1
+Los Angeles County	Avalon	PO BOX	3,694	90704	1	3,694
+Los Angeles County	Azusa	STANDARD	54,800	91702	1	54,800
+Los Angeles County	Baldwin Park	STANDARD	74,790	91706	1	74,790
+Los Angeles County	Bell	PO BOX	909	90202	1	909
+Los Angeles County	Bell Gardens	STANDARD	94,340	90201	1	94,340
+Los Angeles County	Bellflower	PO BOX	1,557	90707	1	73,567
+		STANDARD	72,010	90706	1
+Los Angeles County	Beverly Hills	PO BOX	1,930	90209	2	41,170
+		STANDARD	39,240	90210	3
+Los Angeles County	Burbank	PO BOX	2,255	91503	4	101,235
+		STANDARD	98,980	91501	5
+		UNIQUE	0	91521	4
+Los Angeles County	Calabasas	PO BOX	365	91372	1	23,835
+		STANDARD	23,470	91302	1
+Los Angeles County	Canoga Park	PO BOX	970	91305	2	72,550
+		STANDARD	71,580	91303	2
+Los Angeles County	Canyon Country	PO BOX	839	91386	1	74,979
+		STANDARD	74,140	91351	2
+Los Angeles County	Carson	PO BOX	736	90749	1	82,195
+		STANDARD	81,410	90745	2
+		UNIQUE	49	90747	2
+Los Angeles County	Castaic	PO BOX	240	91310	1	22,520
+		STANDARD	22,280	91384	1
+Los Angeles County	Cerritos	STANDARD	48,970	90703	1	48,970
+Los Angeles County	Chatsworth	PO BOX	671	91313	1	34,891
+		STANDARD	34,220	91311	1
+Los Angeles County	City Of Industry	PO BOX	850	91714	3	850
+Los Angeles County	Claremont	STANDARD	30,390	91711	1	30,390
+Los Angeles County	Compton	PO BOX	1,670	90223	2	132,940
+		STANDARD	131,270	90220	3
+Los Angeles County	Covina	STANDARD	76,770	91722	3	76,770
+Los Angeles County	Culver City	PO BOX	1,009	90231	2	45,089
+		STANDARD	44,080	90230	2
+Los Angeles County	Diamond Bar	STANDARD	44,250	91765	1	44,250
+Los Angeles County	Dodgertown	UNIQUE	0	90090	1	0
+Los Angeles County	Downey	PO BOX	695	90239	1	108,135
+		STANDARD	107,440	90240	3
+Los Angeles County	Duarte	PO BOX	493	91009	1	25,753
+		STANDARD	25,260	91008	2
+Los Angeles County	El Monte	PO BOX	1,122	91734	1	83,091
+		STANDARD	81,940	91731	2
+		UNIQUE	29	91735	1
+Los Angeles County	El Segundo	STANDARD	17,300	90245	1	17,300
+Los Angeles County	Encino	PO BOX	1,261	91416	2	43,591
+		STANDARD	42,330	91316	2
+Los Angeles County	Gardena	STANDARD	81,790	90247	3	81,790
+Los Angeles County	Glendale	PO BOX	3,334	91209	5	152,124
+		STANDARD	148,790	91201	9
+Los Angeles County	Glendora	STANDARD	48,260	91740	2	48,260
+Los Angeles County	Granada Hills	PO BOX	526	91394	1	48,916
+		STANDARD	48,390	91344	1
+Los Angeles County	Hacienda Heights	STANDARD	50,670	91745	1	50,670
+Los Angeles County	Harbor City	STANDARD	24,310	90710	1	24,310
+Los Angeles County	Hawaiian Gardens	STANDARD	13,830	90716	1	13,830
+Los Angeles County	Hawthorne	PO BOX	1,571	90251	1	90,921
+		STANDARD	89,350	90250	1
+Los Angeles County	Hermosa Beach	STANDARD	17,650	90254	1	17,650
+Los Angeles County	Huntington Park	STANDARD	75,380	90255	1	75,380
+Los Angeles County	Inglewood	PO BOX	1,582	90306	6	126,632
+		STANDARD	125,050	90301	6
+		UNIQUE	0	90313	3
+Los Angeles County	La Canada Flintridge	PO BOX	610	91012	1	20,690
+		STANDARD	20,080	91011	1
+Los Angeles County	La Crescenta	PO BOX	389	91224	1	29,969
+		STANDARD	29,580	91214	1
+Los Angeles County	La Mirada	PO BOX	866	90637	1	44,837
+		STANDARD	43,780	90638	1
+		UNIQUE	191	90639	1
+Los Angeles County	La Puente	PO BOX	1,454	91747	2	114,624
+		STANDARD	113,170	91744	2
+Los Angeles County	La Verne	STANDARD	30,970	91750	1	30,970
+Los Angeles County	Lake Hughes	STANDARD	2,190	93532	1	2,190
+Los Angeles County	Lakewood	PO BOX	1,360	90711	2	78,650
+		STANDARD	77,290	90712	3
+Los Angeles County	Lancaster	PO BOX	3,861	93539	3	160,891
+		STANDARD	157,030	93534	3
+Los Angeles County	Lawndale	STANDARD	32,590	90260	2	32,590
+Los Angeles County	Littlerock	STANDARD	11,500	93543	1	11,500
+Los Angeles County	Llano	STANDARD	750	93544	1	750
+Los Angeles County	Lomita	STANDARD	19,460	90717	1	19,460
+Los Angeles County	Long Beach	PO BOX	3,494	90801	4	431,644
+		STANDARD	428,150	90802	16
+		UNIQUE	0	90840	9
+Los Angeles County	Los Angeles	PO BOX	10,385	90009	23	2,029,025
+		STANDARD	2,018,373	90001	64
+		UNIQUE	267	90074	9
+Los Angeles County	Lynwood	STANDARD	66,310	90262	1	66,310
+Los Angeles County	Malibu	PO BOX	524	90264	1	13,484
+		STANDARD	12,960	90263	2
+Los Angeles County	Manhattan Beach	PO BOX	918	90267	1	34,728
+		STANDARD	33,810	90266	1
+Los Angeles County	Marina Del Rey	PO BOX	1,330	90295	1	20,630
+		STANDARD	19,300	90292	1
+Los Angeles County	Maywood	STANDARD	26,290	90270	1	26,290
+Los Angeles County	Mission Hills	PO BOX	880	91346	2	18,690
+		STANDARD	17,810	91345	1
+Los Angeles County	Monrovia	PO BOX	1,147	91017	1	38,557
+		STANDARD	37,410	91016	1
+Los Angeles County	Montebello	STANDARD	59,500	90640	1	59,500
+Los Angeles County	Monterey Park	STANDARD	56,830	91754	2	56,830
+		UNIQUE	0	91756	1
+Los Angeles County	Montrose	PO BOX	291	91021	1	7,441
+		STANDARD	7,150	91020	1
+Los Angeles County	Mount Wilson	PO BOX	0	91023	1	0
+Los Angeles County	Newhall	PO BOX	874	91322	1	33,304
+		STANDARD	32,430	91321	1
+Los Angeles County	North Hills	PO BOX	310	91393	1	54,340
+		STANDARD	54,030	91343	1
+Los Angeles County	North Hollywood	PO BOX	1,454	91603	5	138,214
+		STANDARD	136,760	91601	4
+		UNIQUE	0	91611	2
+Los Angeles County	Northridge	PO BOX	957	91327	2	53,727
+		STANDARD	52,710	91324	2
+		UNIQUE	60	91329	2
+Los Angeles County	Norwalk	PO BOX	1,522	90651	2	101,922
+		STANDARD	100,400	90650	1
+		UNIQUE	0	90659	1
+Los Angeles County	Pacific Palisades	STANDARD	20,020	90272	1	20,020
+Los Angeles County	Pacoima	PO BOX	1,224	91333	2	97,304
+		STANDARD	96,080	91331	1
+Los Angeles County	Palmdale	PO BOX	1,866	93590	1	162,016
+		STANDARD	160,150	93550	4
+		UNIQUE	0	93599	1
+Los Angeles County	Palos Verdes Peninsula	STANDARD	25,450	90274	1	25,450
+Los Angeles County	Panorama City	PO BOX	686	91412	1	63,036
+		STANDARD	62,350	91402	1
+Los Angeles County	Paramount	STANDARD	54,600	90723	1	54,600
+Los Angeles County	Pasadena	PO BOX	4,347	91102	6	138,364
+		STANDARD	133,600	91101	6
+		UNIQUE	417	91110	15
+Los Angeles County	Pearblossom	STANDARD	1,530	93553	1	1,530
+Los Angeles County	Pico Rivera	PO BOX	414	90661	2	61,014
+		STANDARD	60,600	90660	1
+Los Angeles County	Playa Del Rey	PO BOX	169	90296	1	10,619
+		STANDARD	10,450	90293	1
+Los Angeles County	Playa Vista	STANDARD	5,260	90094	1	5,260
+Los Angeles County	Pomona	PO BOX	1,925	91769	1	141,415
+		STANDARD	139,490	91766	3
+		UNIQUE	0	91797	2
+Los Angeles County	Porter Ranch	STANDARD	33,010	91326	1	33,010
+Los Angeles County	Rancho Palos Verdes	STANDARD	39,370	90275	1	39,370
+Los Angeles County	Redondo Beach	STANDARD	70,910	90277	2	70,910
+Los Angeles County	Reseda	PO BOX	697	91337	1	68,447
+		STANDARD	67,750	91335	1
+Los Angeles County	Rosemead	STANDARD	56,570	91770	1	56,570
+		UNIQUE	0	91771	2
+Los Angeles County	Rowland Heights	STANDARD	42,120	91748	1	42,120
+Los Angeles County	San Dimas	STANDARD	31,170	91773	1	31,170
+Los Angeles County	San Fernando	PO BOX	717	91341	1	33,907
+		STANDARD	33,190	91340	1
+Los Angeles County	San Gabriel	PO BOX	953	91778	1	59,003
+		STANDARD	58,050	91775	2
+Los Angeles County	San Marino	PO BOX	367	91118	1	13,237
+		STANDARD	12,870	91108	1
+Los Angeles County	San Pedro	PO BOX	1,209	90733	2	71,799
+		STANDARD	70,590	90731	2
+Los Angeles County	Santa Clarita	PO BOX	1,561	91380	1	54,351
+		STANDARD	52,790	91350	4
+Los Angeles County	Santa Fe Springs	PO BOX	0	90671	1	15,740
+		STANDARD	15,740	90670	1
+Los Angeles County	Santa Monica	PO BOX	2,232	90406	6	82,022
+		STANDARD	79,790	90401	5
+Los Angeles County	Sherman Oaks	PO BOX	1,363	91413	1	51,623
+		STANDARD	50,260	91403	2
+		UNIQUE	0	91495	1
+Los Angeles County	Sierra Madre	PO BOX	488	91025	1	10,528
+		STANDARD	10,040	91024	1
+Los Angeles County	Signal Hill	STANDARD	11,000	90755	1	11,000
+Los Angeles County	South El Monte	STANDARD	41,080	91733	1	41,080
+Los Angeles County	South Gate	STANDARD	93,670	90280	1	93,670
+Los Angeles County	South Pasadena	PO BOX	914	91031	1	25,114
+		STANDARD	24,200	91030	1
+Los Angeles County	Stevenson Ranch	STANDARD	19,490	91381	1	19,490
+Los Angeles County	Studio City	PO BOX	400	91614	1	26,310
+		STANDARD	25,910	91604	1
+Los Angeles County	Sun Valley	PO BOX	973	91353	1	45,013
+		STANDARD	44,040	91352	1
+Los Angeles County	Sunland	PO BOX	433	91041	1	18,663
+		STANDARD	18,230	91040	1
+Los Angeles County	Sylmar	PO BOX	1,521	91392	1	88,821
+		STANDARD	87,300	91342	1
+Los Angeles County	Tarzana	PO BOX	972	91357	1	27,302
+		STANDARD	26,330	91356	1
+Los Angeles County	Temple City	STANDARD	32,640	91780	1	32,640
+Los Angeles County	Thousand Oaks	UNIQUE	0	91363	1	0
+Los Angeles County	Toluca Lake	PO BOX	355	91610	1	355
+Los Angeles County	Topanga	STANDARD	5,410	90290	1	5,410
+Los Angeles County	Torrance	PO BOX	1,231	90507	4	169,291
+		STANDARD	168,060	90501	6
+Los Angeles County	Tujunga	PO BOX	366	91043	1	24,056
+		STANDARD	23,690	91042	1
+Los Angeles County	Universal City	STANDARD	27	91608	1	27
+Los Angeles County	Valencia	PO BOX	290	91385	1	60,810
+		STANDARD	60,520	91354	2
+Los Angeles County	Valley Village	PO BOX	232	91617	1	25,542
+		STANDARD	25,310	91607	1
+Los Angeles County	Valyermo	STANDARD	90	93563	1	90
+Los Angeles County	Van Nuys	PO BOX	1,672	91404	5	147,862
+		STANDARD	146,190	91401	4
+		UNIQUE	0	91388	6
+Los Angeles County	Venice	PO BOX	684	90294	1	22,804
+		STANDARD	22,120	90291	1
+Los Angeles County	Verdugo City	PO BOX	267	91046	1	267
+Los Angeles County	Walnut	PO BOX	808	91788	1	41,938
+		STANDARD	41,130	91789	1
+		UNIQUE	0	91795	1
+Los Angeles County	West Covina	PO BOX	1,013	91793	1	100,943
+		STANDARD	99,930	91790	3
+Los Angeles County	West Hills	PO BOX	508	91308	1	23,558
+		STANDARD	23,050	91307	1
+Los Angeles County	West Hollywood	STANDARD	17,500	90069	1	17,500
+Los Angeles County	Westlake Village	PO BOX	1,314	91359	1	1,314
+Los Angeles County	Whittier	PO BOX	1,937	90607	4	182,467
+		STANDARD	180,530	90601	6
+		UNIQUE	0	90612	1
+Los Angeles County	Wilmington	PO BOX	1,496	90748	1	53,876
+		STANDARD	52,380	90744	1
+Los Angeles County	Winnetka	PO BOX	654	91396	1	43,884
+		STANDARD	43,230	91306	1
+Los Angeles County	Woodland Hills	PO BOX	654	91365	1	62,834
+		STANDARD	62,180	91364	2
+		UNIQUE	0	91371	2
+Madera County	Ahwahnee	STANDARD	1,620	93601	1	1,620
+Madera County	Bass Lake	STANDARD	590	93604	1	590
+Madera County	Chowchilla	STANDARD	15,460	93610	1	15,460
+Madera County	Coarsegold	STANDARD	9,940	93614	1	9,940
+Madera County	Madera	PO BOX	1,078	93639	1	102,288
+		STANDARD	101,210	93636	3
+Madera County	North Fork	STANDARD	2,490	93643	1	2,490
+Madera County	O Neals	STANDARD	280	93645	1	280
+Madera County	Oakhurst	STANDARD	7,520	93644	1	7,520
+Madera County	Raymond	STANDARD	790	93653	1	790
+Madera County	Wishon	STANDARD	260	93669	1	260
+Marin County	Belvedere Tiburon	STANDARD	11,490	94920	1	11,490
+Marin County	Bolinas	STANDARD	1,020	94924	1	1,020
+Marin County	Corte Madera	PO BOX	392	94976	1	9,632
+		STANDARD	9,240	94925	1
+Marin County	Dillon Beach	PO BOX	247	94929	1	247
+Marin County	Fairfax	PO BOX	499	94978	1	8,049
+		STANDARD	7,550	94930	1
+Marin County	Forest Knolls	PO BOX	880	94933	1	880
+Marin County	Greenbrae	STANDARD	11,340	94904	1	11,340
+Marin County	Inverness	STANDARD	900	94937	1	900
+Marin County	Kentfield	PO BOX	320	94914	1	320
+Marin County	Lagunitas	PO BOX	524	94938	1	524
+Marin County	Larkspur	PO BOX	352	94977	1	6,982
+		STANDARD	6,630	94939	1
+Marin County	Marshall	STANDARD	169	94940	1	169
+Marin County	Mill Valley	PO BOX	987	94942	1	29,027
+		STANDARD	28,040	94941	1
+Marin County	Nicasio	STANDARD	570	94946	1	570
+Marin County	Novato	PO BOX	1,578	94948	1	57,618
+		STANDARD	56,040	94945	3
+		UNIQUE	0	94998	1
+Marin County	Olema	PO BOX	151	94950	1	151
+Marin County	Point Reyes Station	STANDARD	1,450	94956	1	1,450
+Marin County	Ross	PO BOX	2,640	94957	1	2,640
+Marin County	San Anselmo	PO BOX	605	94979	1	14,705
+		STANDARD	14,100	94960	1
+Marin County	San Geronimo	PO BOX	525	94963	1	525
+Marin County	San Quentin	PO BOX	335	94964	1	365
+		STANDARD	30	94974	1
+Marin County	San Rafael	PO BOX	2,503	94912	3	68,033
+		STANDARD	65,530	94901	2
+Marin County	Sausalito	PO BOX	881	94966	1	10,411
+		STANDARD	9,530	94965	1
+Marin County	Stinson Beach	STANDARD	632	94970	1	632
+Marin County	Tomales	PO BOX	385	94971	1	385
+Marin County	Valley Ford	STANDARD	407	94972	1	407
+Marin County	Woodacre	PO BOX	1,459	94973	1	1,459
+Mariposa County	Catheys Valley	STANDARD	790	95306	1	790
+Mariposa County	Coulterville	STANDARD	1,440	95311	1	1,440
+Mariposa County	El Portal	PO BOX	470	95318	1	470
+Mariposa County	Fish Camp	STANDARD	73	93623	1	73
+Mariposa County	Hornitos	STANDARD	110	95325	1	110
+Mariposa County	Mariposa	STANDARD	8,450	95338	1	8,450
+Mariposa County	Midpines	STANDARD	700	95345	1	700
+Mariposa County	Yosemite National Park	STANDARD	1,060	95389	1	1,060
+Mendocino County	Albion	STANDARD	720	95410	1	720
+Mendocino County	Boonville	STANDARD	1,560	95415	1	1,560
+Mendocino County	Branscomb	STANDARD	146	95417	1	146
+Mendocino County	Calpella	PO BOX	609	95418	1	609
+Mendocino County	Caspar	STANDARD	158	95420	1	158
+Mendocino County	Comptche	STANDARD	310	95427	1	310
+Mendocino County	Covelo	STANDARD	1,570	95428	1	1,570
+Mendocino County	Dos Rios	STANDARD	27	95429	1	27
+Mendocino County	Elk	STANDARD	280	95432	1	280
+Mendocino County	Fort Bragg	STANDARD	12,560	95437	1	12,560
+Mendocino County	Gualala	STANDARD	2,540	95445	1	2,540
+Mendocino County	Hopland	STANDARD	1,500	95449	1	1,500
+Mendocino County	Laytonville	STANDARD	1,730	95454	1	1,730
+Mendocino County	Leggett	STANDARD	220	95585	1	220
+Mendocino County	Little River	STANDARD	530	95456	1	530
+Mendocino County	Manchester	STANDARD	420	95459	1	420
+Mendocino County	Mendocino	STANDARD	2,390	95460	1	2,390
+Mendocino County	Navarro	STANDARD	77	95463	1	77
+Mendocino County	Philo	STANDARD	1,340	95466	1	1,340
+Mendocino County	Piercy	STANDARD	165	95587	1	165
+Mendocino County	Point Arena	STANDARD	1,150	95468	1	1,150
+Mendocino County	Potter Valley	STANDARD	1,530	95469	1	1,530
+Mendocino County	Redwood Valley	STANDARD	5,170	95470	1	5,170
+Mendocino County	Talmage	PO BOX	1,540	95481	1	1,540
+Mendocino County	Ukiah	STANDARD	26,410	95482	1	26,410
+Mendocino County	Westport	STANDARD	169	95488	1	169
+Mendocino County	Willits	STANDARD	10,350	95490	1	10,350
+Mendocino County	Yorkville	STANDARD	200	95494	1	200
+Merced County	Atwater	STANDARD	34,350	95301	1	34,350
+Merced County	Ballico	STANDARD	950	95303	1	950
+Merced County	Cressey	PO BOX	498	95312	1	498
+Merced County	Delhi	STANDARD	12,610	95315	1	12,610
+Merced County	Dos Palos	STANDARD	8,600	93620	1	8,600
+Merced County	El Nido	STANDARD	1,050	95317	1	1,050
+Merced County	Gustine	STANDARD	9,570	95322	1	9,570
+Merced County	Hilmar	STANDARD	6,700	95324	1	6,700
+Merced County	Le Grand	STANDARD	2,540	95333	1	2,540
+Merced County	Livingston	STANDARD	16,500	95334	1	16,500
+Merced County	Los Banos	STANDARD	41,910	93635	1	41,910
+Merced County	Merced	PO BOX	1,260	95344	1	83,360
+		STANDARD	82,100	95340	4
+Merced County	Planada	STANDARD	4,790	95365	1	4,790
+Merced County	Santa Rita Park	PO BOX	241	93661	1	241
+Merced County	Snelling	STANDARD	820	95369	1	820
+Merced County	South Dos Palos	PO BOX	756	93665	1	756
+Merced County	Stevinson	STANDARD	1,600	95374	1	1,600
+Merced County	Winton	STANDARD	12,650	95388	1	12,650
+Modoc County	Adin	STANDARD	400	96006	1	400
+Modoc County	Alturas	STANDARD	4,000	96101	1	4,000
+Modoc County	Canby	STANDARD	270	96015	1	270
+Modoc County	Cedarville	STANDARD	580	96104	1	580
+Modoc County	Davis Creek	STANDARD	90	96108	1	90
+Modoc County	Eagleville	PO BOX	133	96110	1	133
+Modoc County	Fort Bidwell	STANDARD	149	96112	1	149
+Modoc County	Lake City	STANDARD	98	96115	1	98
+Modoc County	Likely	PO BOX	165	96116	1	165
+Modoc County	Lookout	PO BOX	247	96054	1	247
+Mono County	Benton	STANDARD	180	93512	1	180
+Mono County	Bridgeport	STANDARD	600	93517	1	600
+Mono County	Coleville	STANDARD	900	96107	1	900
+Mono County	June Lake	STANDARD	550	93529	1	550
+Mono County	Lee Vining	PO BOX	455	93541	1	455
+Mono County	Mammoth Lakes	STANDARD	8,630	93546	1	8,630
+Mono County	Topaz	STANDARD	89	96133	1	89
+Monterey County	Aromas	STANDARD	3,900	95004	1	3,900
+Monterey County	Big Sur	STANDARD	1,410	93920	1	1,410
+Monterey County	Bradley	STANDARD	920	93426	1	920
+Monterey County	Carmel	PO BOX	2,026	93922	1	10,876
+		STANDARD	8,850	93923	1
+Monterey County	Carmel By The Sea	PO BOX	4,314	93921	1	4,314
+Monterey County	Carmel Valley	STANDARD	5,690	93924	1	5,690
+Monterey County	Castroville	STANDARD	13,430	95012	1	13,430
+Monterey County	Chualar	STANDARD	2,240	93925	1	2,240
+Monterey County	Gonzales	STANDARD	11,870	93926	1	11,870
+Monterey County	Greenfield	STANDARD	24,340	93927	1	24,340
+Monterey County	Jolon	PO BOX	239	93928	1	239
+Monterey County	King City	STANDARD	21,240	93930	1	21,240
+Monterey County	Lockwood	PO BOX	537	93932	1	537
+Monterey County	Marina	STANDARD	20,560	93933	1	20,560
+Monterey County	Monterey	PO BOX	3,047	93942	2	28,423
+		STANDARD	25,376	93940	2
+Monterey County	Moss Landing	STANDARD	1,860	95039	1	1,860
+Monterey County	Pacific Grove	STANDARD	13,730	93950	1	13,730
+Monterey County	Pebble Beach	STANDARD	3,730	93953	1	3,730
+Monterey County	Salinas	PO BOX	10,106	93902	3	219,056
+		STANDARD	208,950	93901	5
+Monterey County	San Ardo	STANDARD	680	93450	1	680
+Monterey County	San Lucas	PO BOX	356	93954	1	356
+Monterey County	Seaside	STANDARD	33,410	93955	1	33,410
+Monterey County	Soledad	STANDARD	20,220	93960	1	20,220
+Monterey County	Spreckels	PO BOX	781	93962	1	781
+Napa County	American Canyon	STANDARD	21,380	94503	1	21,380
+Napa County	Angwin	STANDARD	2,540	94508	1	2,540
+Napa County	Calistoga	STANDARD	7,030	94515	1	7,030
+Napa County	Deer Park	STANDARD	170	94576	1	170
+Napa County	Napa	PO BOX	1,703	94581	1	95,943
+		STANDARD	94,240	94558	2
+Napa County	Oakville	PO BOX	177	94562	1	177
+Napa County	Pope Valley	STANDARD	570	94567	1	570
+Napa County	Rutherford	PO BOX	1,105	94573	1	1,105
+Napa County	Saint Helena	STANDARD	8,280	94574	1	8,280
+Napa County	Yountville	STANDARD	2,620	94599	1	2,620
+Nevada County	Cedar Ridge	PO BOX	1,602	95924	1	1,602
+Nevada County	Chicago Park	PO BOX	657	95712	1	657
+Nevada County	Grass Valley	STANDARD	36,920	95945	2	36,920
+Nevada County	Nevada City	STANDARD	14,920	95959	1	14,920
+Nevada County	North San Juan	STANDARD	940	95960	1	940
+Nevada County	Penn Valley	STANDARD	8,640	95946	1	8,640
+Nevada County	Rough And Ready	STANDARD	1,350	95975	1	1,350
+Nevada County	Smartsville	STANDARD	1,280	95977	1	1,280
+Nevada County	Truckee	PO BOX	4,671	96160	1	14,821
+		STANDARD	10,150	96161	1
+Nevada County	Washington	PO BOX	116	95986	1	116
+Orange County	Aliso Viejo	STANDARD	48,780	92656	1	48,780
+		UNIQUE	0	92698	1
+Orange County	Anaheim	PO BOX	5,730	92803	7	357,806
+		STANDARD	352,076	92801	9
+		UNIQUE	0	92850	1
+Orange County	Atwood	PO BOX	227	92811	1	227
+Orange County	Brea	PO BOX	1,084	92822	1	42,054
+		STANDARD	40,970	92821	2
+Orange County	Buena Park	PO BOX	581	90622	2	80,251
+		STANDARD	79,670	90620	2
+Orange County	Capistrano Beach	STANDARD	6,880	92624	1	6,880
+Orange County	Corona Del Mar	STANDARD	10,980	92625	1	10,980
+Orange County	Costa Mesa	PO BOX	1,264	92628	1	103,994
+		STANDARD	102,730	92626	2
+Orange County	Cypress	STANDARD	47,470	90630	1	47,470
+Orange County	Dana Point	STANDARD	25,030	92629	1	25,030
+Orange County	East Irvine	PO BOX	116	92650	1	116
+Orange County	El Toro	PO BOX	774	92609	1	774
+Orange County	Foothill Ranch	STANDARD	11,060	92610	1	11,060
+Orange County	Fountain Valley	PO BOX	912	92728	1	53,672
+		STANDARD	52,760	92708	1
+Orange County	Fullerton	PO BOX	2,513	92834	4	127,763
+		STANDARD	125,250	92831	4
+Orange County	Garden Grove	PO BOX	2,169	92842	2	167,289
+		STANDARD	165,120	92840	5
+Orange County	Huntington Beach	PO BOX	1,183	92605	2	180,773
+		STANDARD	179,590	92646	4
+Orange County	Irvine	PO BOX	3,018	92616	3	210,191
+		STANDARD	207,130	92602	9
+		UNIQUE	43	92697	3
+Orange County	La Habra	PO BOX	1,282	90632	2	67,222
+		STANDARD	65,940	90631	1
+Orange County	La Palma	STANDARD	15,100	90623	1	15,100
+Orange County	Ladera Ranch	STANDARD	25,600	92694	1	25,600
+Orange County	Laguna Beach	PO BOX	1,271	92652	1	21,721
+		STANDARD	20,450	92651	1
+Orange County	Laguna Hills	PO BOX	883	92654	1	30,413
+		STANDARD	29,530	92653	1
+Orange County	Laguna Niguel	PO BOX	759	92607	1	61,109
+		STANDARD	60,350	92677	1
+Orange County	Laguna Woods	STANDARD	12,940	92637	1	12,940
+Orange County	Lake Forest	STANDARD	60,120	92630	1	60,120
+Orange County	Los Alamitos	PO BOX	52	90721	1	21,772
+		STANDARD	21,720	90720	1
+Orange County	Midway City	STANDARD	8,320	92655	1	8,320
+Orange County	Mission Viejo	PO BOX	1,073	92690	1	92,833
+		STANDARD	91,760	92691	2
+Orange County	Newport Beach	PO BOX	3,021	92658	2	56,451
+		STANDARD	53,430	92660	4
+Orange County	Newport Coast	STANDARD	8,950	92657	1	8,950
+Orange County	Orange	PO BOX	3,232	92856	5	140,262
+		STANDARD	137,030	92862	6
+Orange County	Placentia	PO BOX	710	92871	1	52,340
+		STANDARD	51,630	92870	1
+Orange County	Rancho Santa Margarita	STANDARD	44,100	92688	1	44,100
+Orange County	San Clemente	PO BOX	1,289	92674	1	65,559
+		STANDARD	64,270	92672	2
+Orange County	San Juan Capistrano	PO BOX	687	92693	1	35,337
+		STANDARD	34,650	92675	1
+Orange County	Santa Ana	PO BOX	2,322	92702	4	365,055
+		STANDARD	362,733	92701	7
+		UNIQUE	0	92725	1
+Orange County	Seal Beach	STANDARD	22,220	90740	1	22,220
+Orange County	Silverado	STANDARD	1,800	92676	1	1,800
+Orange County	Stanton	STANDARD	29,870	90680	1	29,870
+Orange County	Sunset Beach	PO BOX	1,243	90742	1	1,243
+Orange County	Surfside	PO BOX	426	90743	1	426
+Orange County	Trabuco Canyon	PO BOX	651	92678	1	31,971
+		STANDARD	31,320	92679	1
+Orange County	Tustin	PO BOX	1,670	92781	1	82,780
+		STANDARD	81,110	92780	2
+Orange County	Villa Park	STANDARD	5,710	92861	1	5,710
+Orange County	Westminster	PO BOX	1,926	92684	2	86,786
+		STANDARD	84,860	92683	1
+Orange County	Yorba Linda	PO BOX	504	92885	1	66,424
+		STANDARD	65,920	92886	2
+Placer County	Alta	PO BOX	950	95701	1	950
+Placer County	Applegate	STANDARD	1,610	95703	1	1,610
+Placer County	Auburn	PO BOX	3,232	95604	1	41,882
+		STANDARD	38,650	95602	2
+Placer County	Carnelian Bay	PO BOX	1,108	96140	1	1,108
+Placer County	Colfax	STANDARD	6,560	95713	1	6,560
+Placer County	Dutch Flat	PO BOX	358	95714	1	358
+Placer County	Emigrant Gap	PO BOX	102	95715	1	102
+Placer County	Foresthill	STANDARD	5,280	95631	1	5,280
+Placer County	Gold Run	PO BOX	226	95717	1	226
+Placer County	Granite Bay	STANDARD	21,560	95746	1	21,560
+Placer County	Homewood	PO BOX	598	96141	1	598
+Placer County	Kings Beach	PO BOX	3,229	96143	1	3,229
+Placer County	Lincoln	STANDARD	48,780	95648	1	48,780
+Placer County	Loomis	STANDARD	12,240	95650	1	12,240
+Placer County	Meadow Vista	STANDARD	4,590	95722	1	4,590
+Placer County	Newcastle	STANDARD	6,060	95658	1	6,060
+Placer County	Norden	PO BOX	35	95724	1	35
+Placer County	Olympic Valley	STANDARD	1,060	96146	1	1,060
+Placer County	Penryn	STANDARD	2,650	95663	1	2,650
+Placer County	Rocklin	STANDARD	57,690	95677	2	57,690
+Placer County	Roseville	STANDARD	126,170	95661	3	126,170
+Placer County	Sheridan	STANDARD	1,190	95681	1	1,190
+Placer County	Soda Springs	PO BOX	402	95728	1	402
+Placer County	Tahoe City	PO BOX	4,235	96145	1	4,235
+Placer County	Tahoe Vista	PO BOX	648	96148	1	648
+Placer County	Truckee	PO BOX	3,107	96162	1	3,107
+Placer County	Weimar	PO BOX	1,403	95736	1	1,403
+Plumas County	Beckwourth	STANDARD	207	96129	1	207
+Plumas County	Belden	PO BOX	12	95915	1	12
+Plumas County	Blairsden-graeagle	STANDARD	1,230	96103	1	1,230
+Plumas County	Canyon Dam	STANDARD	77	95923	1	77
+Plumas County	Chester	STANDARD	2,210	96020	1	2,210
+Plumas County	Chilcoot	STANDARD	350	96105	1	350
+Plumas County	Clio	PO BOX	437	96106	1	437
+Plumas County	Crescent Mills	STANDARD	190	95934	1	190
+Plumas County	Greenville	STANDARD	1,270	95947	1	1,270
+Plumas County	Meadow Valley	PO BOX	368	95956	1	368
+Plumas County	Portola	STANDARD	3,070	96122	1	3,070
+Plumas County	Quincy	STANDARD	4,820	95971	1	4,820
+Plumas County	Storrie	PO BOX	0	95980	1	0
+Plumas County	Taylorsville	STANDARD	360	95983	1	360
+Plumas County	Twain	PO BOX	65	95984	1	65
+Plumas County	Vinton	PO BOX	83	96135	1	83
+Riverside County	Aguanga	STANDARD	2,780	92536	1	2,780
+Riverside County	Anza	STANDARD	3,240	92539	1	3,240
+Riverside County	Banning	STANDARD	26,440	92220	1	26,440
+Riverside County	Beaumont	STANDARD	46,010	92223	1	46,010
+Riverside County	Blythe	PO BOX	2,125	92226	1	13,955
+		STANDARD	11,830	92225	1
+Riverside County	Cabazon	STANDARD	2,070	92230	1	2,070
+Riverside County	Calimesa	STANDARD	7,100	92320	1	7,100
+Riverside County	Cathedral City	PO BOX	2,877	92235	1	48,697
+		STANDARD	45,820	92234	1
+Riverside County	Coachella	STANDARD	46,950	92236	1	46,950
+Riverside County	Corona	PO BOX	2,665	92877	2	237,685
+		STANDARD	235,020	92879	5
+Riverside County	Desert Center	PO BOX	259	92239	1	259
+Riverside County	Desert Hot Springs	STANDARD	37,050	92240	2	37,050
+Riverside County	Hemet	PO BOX	1,332	92546	1	98,372
+		STANDARD	97,040	92543	3
+Riverside County	Homeland	STANDARD	5,570	92548	1	5,570
+Riverside County	Idyllwild	STANDARD	3,473	92549	1	3,473
+Riverside County	Indian Wells	STANDARD	2,870	92210	1	2,870
+Riverside County	Indio	PO BOX	4,980	92202	1	85,690
+		STANDARD	80,710	92201	2
+Riverside County	La Quinta	PO BOX	1,985	92247	2	33,265
+		STANDARD	31,280	92253	1
+Riverside County	Lake Elsinore	PO BOX	1,222	92531	1	69,912
+		STANDARD	68,690	92530	2
+Riverside County	March Air Reserve Base	STANDARD	780	92518	1	780
+Riverside County	Mecca	STANDARD	22,340	92254	1	22,340
+Riverside County	Menifee	STANDARD	42,220	92584	1	42,220
+Riverside County	Mira Loma	STANDARD	29,220	91752	1	29,220
+Riverside County	Moreno Valley	PO BOX	3,448	92552	3	188,378
+		STANDARD	184,930	92551	4
+Riverside County	Mountain Center	STANDARD	1,100	92561	1	1,100
+Riverside County	Murrieta	PO BOX	965	92564	1	117,705
+		STANDARD	116,740	92562	2
+Riverside County	Norco	STANDARD	21,860	92860	1	21,860
+Riverside County	North Palm Springs	PO BOX	752	92258	1	752
+Riverside County	Nuevo	STANDARD	9,050	92567	1	9,050
+Riverside County	Palm Desert	PO BOX	3,353	92255	2	46,393
+		STANDARD	43,040	92211	2
+Riverside County	Palm Springs	PO BOX	3,062	92263	1	35,582
+		STANDARD	32,520	92262	3
+Riverside County	Perris	PO BOX	1,816	92572	1	104,246
+		STANDARD	102,430	92570	2
+		UNIQUE	0	92599	1
+Riverside County	Rancho Mirage	STANDARD	12,290	92270	1	12,290
+Riverside County	Riverside	PO BOX	6,704	92502	7	389,002
+		STANDARD	382,270	92501	8
+		UNIQUE	28	92521	2
+Riverside County	San Jacinto	PO BOX	1,608	92581	1	44,608
+		STANDARD	43,000	92582	2
+Riverside County	Sun City	STANDARD	52,200	92585	3	52,200
+Riverside County	Temecula	PO BOX	4,301	92589	2	118,331
+		STANDARD	114,030	92590	3
+Riverside County	Thermal	STANDARD	20,220	92274	1	20,220
+Riverside County	Thousand Palms	STANDARD	7,010	92276	1	7,010
+Riverside County	Whitewater	STANDARD	740	92282	1	740
+Riverside County	Wildomar	STANDARD	29,500	92595	1	29,500
+Riverside County	Winchester	STANDARD	23,810	92596	1	23,810
+Sacramento County	Antelope	STANDARD	43,430	95843	1	43,430
+Sacramento County	Carmichael	PO BOX	1,570	95609	1	53,530
+		STANDARD	51,960	95608	1
+Sacramento County	Citrus Heights	PO BOX	1,413	95611	1	79,333
+		STANDARD	77,920	95610	2
+Sacramento County	Courtland	STANDARD	990	95615	1	990
+Sacramento County	Elk Grove	PO BOX	1,499	95759	1	163,669
+		STANDARD	162,170	95624	3
+Sacramento County	Elverta	STANDARD	5,390	95626	1	5,390
+Sacramento County	Fair Oaks	STANDARD	37,740	95628	1	37,740
+Sacramento County	Folsom	PO BOX	1,454	95763	1	66,314
+		STANDARD	64,860	95630	1
+Sacramento County	Galt	STANDARD	28,920	95632	1	28,920
+Sacramento County	Herald	STANDARD	2,010	95638	1	2,010
+Sacramento County	Hood	PO BOX	276	95639	1	276
+Sacramento County	Isleton	STANDARD	1,540	95641	1	1,540
+Sacramento County	Mather	STANDARD	4,010	95655	1	4,010
+Sacramento County	Mcclellan	STANDARD	430	95652	1	430
+Sacramento County	North Highlands	STANDARD	29,440	95660	1	29,440
+Sacramento County	Orangevale	STANDARD	29,280	95662	1	29,280
+Sacramento County	Rancho Cordova	PO BOX	1,410	95741	1	62,310
+		STANDARD	60,900	95670	2
+Sacramento County	Represa	UNIQUE	18	95671	1	18
+Sacramento County	Rio Linda	STANDARD	14,220	95673	1	14,220
+Sacramento County	Ryde	PO BOX	236	95680	1	236
+Sacramento County	Sacramento	PO BOX	3,880	94203	68	691,950
+		STANDARD	688,070	95811	29
+		UNIQUE	0	94299	5
+Sacramento County	Sloughhouse	STANDARD	6,250	95683	1	6,250
+Sacramento County	Walnut Grove	STANDARD	2,520	95690	1	2,520
+Sacramento County	Wilton	STANDARD	6,630	95693	1	6,630
+San Benito County	Hollister	PO BOX	2,850	95024	1	53,160
+		STANDARD	50,310	95023	1
+San Benito County	Paicines	STANDARD	510	95043	1	510
+San Benito County	San Juan Bautista	STANDARD	4,010	95045	1	4,010
+San Benito County	Tres Pinos	STANDARD	650	95075	1	650
+San Bernardino County	Adelanto	STANDARD	29,580	92301	1	29,580
+San Bernardino County	Amboy	PO BOX	0	92304	1	0
+San Bernardino County	Angelus Oaks	STANDARD	510	92305	1	510
+San Bernardino County	Apple Valley	STANDARD	67,940	92307	2	67,940
+San Bernardino County	Baker	STANDARD	750	92309	1	750
+San Bernardino County	Barstow	PO BOX	1,494	92312	1	27,064
+		STANDARD	25,570	92311	1
+San Bernardino County	Big Bear City	STANDARD	6,770	92314	1	6,770
+San Bernardino County	Big Bear Lake	STANDARD	6,460	92315	1	6,460
+San Bernardino County	Bloomington	STANDARD	31,600	92316	1	31,600
+San Bernardino County	Blue Jay	PO BOX	4,089	92317	1	4,089
+San Bernardino County	Bryn Mawr	PO BOX	446	92318	1	446
+San Bernardino County	Cedar Glen	PO BOX	1,424	92321	1	1,424
+San Bernardino County	Cedarpines Park	PO BOX	440	92322	1	440
+San Bernardino County	Chino	STANDARD	80,030	91708	2	80,030
+San Bernardino County	Chino Hills	STANDARD	71,950	91709	1	71,950
+San Bernardino County	Cima	STANDARD	22	92323	1	22
+San Bernardino County	Colton	STANDARD	54,550	92324	1	54,550
+San Bernardino County	Crest Park	PO BOX	25	92326	1	25
+San Bernardino County	Crestline	PO BOX	9,435	92325	1	9,435
+San Bernardino County	Daggett	STANDARD	380	92327	1	380
+San Bernardino County	Earp	STANDARD	660	92242	1	660
+San Bernardino County	Essex	STANDARD	35	92332	1	35
+San Bernardino County	Fawnskin	PO BOX	480	92333	1	480
+San Bernardino County	Fontana	PO BOX	3,481	92331	2	227,971
+		STANDARD	224,490	92335	3
+San Bernardino County	Forest Falls	STANDARD	880	92339	1	880
+San Bernardino County	Fort Irwin	STANDARD	7,730	92310	1	7,730
+San Bernardino County	Grand Terrace	STANDARD	11,190	92313	1	11,190
+San Bernardino County	Green Valley Lake	PO BOX	345	92341	1	345
+San Bernardino County	Guasti	PO BOX	342	91743	1	342
+San Bernardino County	Helendale	STANDARD	5,690	92342	1	5,690
+San Bernardino County	Hesperia	PO BOX	2,985	92340	1	92,805
+		STANDARD	89,820	92344	2
+San Bernardino County	Highland	STANDARD	51,650	92346	1	51,650
+San Bernardino County	Hinkley	STANDARD	610	92347	1	610
+San Bernardino County	Joshua Tree	STANDARD	6,260	92252	1	6,260
+San Bernardino County	Lake Arrowhead	PO BOX	4,502	92352	1	4,502
+San Bernardino County	Landers	STANDARD	1,170	92285	1	1,170
+San Bernardino County	Loma Linda	STANDARD	18,930	92354	1	19,001
+		UNIQUE	71	92350	2
+San Bernardino County	Lucerne Valley	STANDARD	3,820	92356	1	3,820
+San Bernardino County	Ludlow	STANDARD	0	92338	1	0
+San Bernardino County	Lytle Creek	STANDARD	630	92358	1	630
+San Bernardino County	Mentone	STANDARD	7,550	92359	1	7,550
+San Bernardino County	Montclair	STANDARD	36,910	91763	1	36,910
+San Bernardino County	Morongo Valley	STANDARD	2,620	92256	1	2,620
+San Bernardino County	Mountain Pass	STANDARD	0	92366	1	0
+San Bernardino County	Mt Baldy	PO BOX	426	91759	1	426
+San Bernardino County	Needles	STANDARD	3,600	92363	1	3,600
+San Bernardino County	Newberry Springs	STANDARD	1,460	92365	1	1,460
+San Bernardino County	Nipton	STANDARD	21	92364	1	21
+San Bernardino County	Ontario	STANDARD	165,850	91758	4	165,850
+		UNIQUE	0	91798	1
+San Bernardino County	Oro Grande	STANDARD	650	92368	1	650
+San Bernardino County	Parker Dam	STANDARD	138	92267	1	138
+San Bernardino County	Patton	PO BOX	559	92369	1	559
+San Bernardino County	Phelan	PO BOX	7,170	92329	1	15,510
+		STANDARD	8,340	92371	1
+San Bernardino County	Pinon Hills	STANDARD	4,200	92372	1	4,200
+San Bernardino County	Pioneertown	PO BOX	540	92268	1	540
+San Bernardino County	Rancho Cucamonga	PO BOX	2,513	91729	1	157,823
+		STANDARD	155,310	91701	4
+San Bernardino County	Red Mountain	PO BOX	22	93558	1	22
+San Bernardino County	Redlands	PO BOX	1,346	92375	1	66,856
+		STANDARD	65,510	92373	2
+San Bernardino County	Rialto	STANDARD	101,880	92376	2	101,880
+San Bernardino County	Rimforest	PO BOX	737	92378	1	737
+San Bernardino County	Running Springs	PO BOX	5,092	92382	1	5,092
+San Bernardino County	San Bernardino	PO BOX	5,754	92402	6	218,741
+		STANDARD	212,850	92401	8
+		UNIQUE	137	92414	4
+San Bernardino County	Skyforest	PO BOX	417	92385	1	417
+San Bernardino County	Sugarloaf	PO BOX	1,355	92386	1	1,355
+San Bernardino County	Trona	STANDARD	1,110	93562	1	1,110
+San Bernardino County	Twentynine Palms	STANDARD	21,565	92277	2	21,565
+San Bernardino County	Twin Peaks	PO BOX	1,734	92391	1	1,734
+San Bernardino County	Upland	PO BOX	1,336	91785	1	73,006
+		STANDARD	71,670	91784	2
+San Bernardino County	Victorville	PO BOX	3,013	92393	1	121,503
+		STANDARD	118,490	92392	3
+San Bernardino County	Vidal	STANDARD	0	92280	1	0
+San Bernardino County	Wrightwood	STANDARD	4,590	92397	1	4,590
+San Bernardino County	Yermo	PO BOX	1,357	92398	1	1,357
+San Bernardino County	Yucaipa	STANDARD	47,480	92399	1	47,480
+San Bernardino County	Yucca Valley	PO BOX	1,888	92286	1	20,428
+		STANDARD	18,540	92284	1
+San Diego County	Alpine	PO BOX	2,118	91903	1	16,828
+		STANDARD	14,710	91901	1
+San Diego County	Bonita	PO BOX	834	91908	1	18,294
+		STANDARD	17,460	91902	1
+San Diego County	Bonsall	STANDARD	5,170	92003	1	5,170
+San Diego County	Borrego Springs	STANDARD	2,580	92004	1	2,580
+San Diego County	Boulevard	STANDARD	1,270	91905	1	1,270
+San Diego County	Camp Pendleton	STANDARD	6,633	92055	1	6,633
+San Diego County	Campo	STANDARD	3,140	91906	1	3,140
+San Diego County	Cardiff By The Sea	STANDARD	10,420	92007	1	10,420
+San Diego County	Carlsbad	PO BOX	2,353	92013	2	105,733
+		STANDARD	103,380	92008	4
+San Diego County	Chula Vista	PO BOX	5,417	91909	3	266,927
+		STANDARD	261,510	91910	5
+San Diego County	Coronado	PO BOX	1,387	92178	1	16,877
+		STANDARD	15,490	92118	1
+San Diego County	Del Mar	STANDARD	12,950	92014	1	12,950
+San Diego County	Descanso	STANDARD	1,630	91916	1	1,630
+San Diego County	Dulzura	STANDARD	1,110	91917	1	1,110
+San Diego County	El Cajon	PO BOX	1,239	92022	1	154,319
+		STANDARD	153,080	92019	3
+		UNIQUE	0	92090	1
+San Diego County	Encinitas	PO BOX	1,853	92023	1	48,603
+		STANDARD	46,750	92024	1
+San Diego County	Escondido	PO BOX	4,878	92030	3	168,278
+		STANDARD	163,400	92025	4
+San Diego County	Fallbrook	PO BOX	2,224	92088	1	46,354
+		STANDARD	44,130	92028	1
+San Diego County	Guatay	PO BOX	419	91931	1	419
+San Diego County	Imperial Beach	PO BOX	882	91933	1	25,712
+		STANDARD	24,830	91932	1
+San Diego County	Jacumba	STANDARD	500	91934	1	500
+San Diego County	Jamul	STANDARD	8,560	91935	1	8,560
+San Diego County	Julian	STANDARD	2,880	92036	1	2,880
+San Diego County	La Jolla	PO BOX	2,263	92038	2	34,660
+		STANDARD	32,090	92037	1
+		UNIQUE	307	92092	2
+San Diego County	La Mesa	PO BOX	1,505	91943	2	65,255
+		STANDARD	63,750	91941	2
+San Diego County	Lakeside	STANDARD	39,220	92040	1	39,220
+San Diego County	Lemon Grove	PO BOX	747	91946	1	25,807
+		STANDARD	25,060	91945	1
+San Diego County	Lincoln Acres	PO BOX	58	91947	1	58
+San Diego County	Mount Laguna	PO BOX	84	91948	1	84
+San Diego County	National City	PO BOX	1,271	91951	1	58,021
+		STANDARD	56,750	91950	1
+San Diego County	Oceanside	PO BOX	3,427	92049	3	184,027
+		STANDARD	180,600	92054	4
+San Diego County	Pala	STANDARD	1,750	92059	1	1,750
+San Diego County	Palomar Mountain	PO BOX	289	92060	1	289
+San Diego County	Pauma Valley	STANDARD	3,120	92061	1	3,120
+San Diego County	Pine Valley	STANDARD	1,790	91962	1	1,790
+San Diego County	Potrero	STANDARD	1,460	91963	1	1,460
+		UNIQUE	0	91990	1
+San Diego County	Poway	PO BOX	992	92074	1	47,422
+		STANDARD	46,430	92064	1
+San Diego County	Ramona	STANDARD	34,270	92065	1	34,270
+San Diego County	Ranchita	STANDARD	270	92066	1	270
+San Diego County	Rancho Santa Fe	PO BOX	11,738	92067	1	12,768
+		STANDARD	1,030	92091	1
+San Diego County	San Diego	PO BOX	24,990	92112	33	1,182,647
+		STANDARD	1,153,215	92101	35
+		UNIQUE	4,442	92132	13
+San Diego County	San Luis Rey	PO BOX	558	92068	1	558
+San Diego County	San Marcos	PO BOX	1,602	92079	1	89,632
+		STANDARD	88,030	92069	2
+		UNIQUE	0	92096	1
+San Diego County	San Ysidro	PO BOX	3,955	92143	1	58,035
+		STANDARD	54,080	92173	1
+San Diego County	Santa Ysabel	STANDARD	990	92070	1	990
+San Diego County	Santee	PO BOX	1,148	92072	1	51,648
+		STANDARD	50,500	92071	1
+San Diego County	Solana Beach	STANDARD	12,450	92075	1	12,450
+San Diego County	Spring Valley	PO BOX	1,455	91976	2	67,865
+		STANDARD	66,410	91977	2
+San Diego County	Tecate	STANDARD	2,570	91980	1	2,570
+		UNIQUE	0	91987	1
+San Diego County	Valley Center	STANDARD	18,520	92082	1	18,520
+San Diego County	Vista	PO BOX	2,455	92085	1	108,705
+		STANDARD	106,250	92081	3
+San Diego County	Warner Springs	STANDARD	1,000	92086	1	1,000
+San Francisco County	San Francisco	PO BOX	6,536	94119	13	735,203
+		STANDARD	728,560	94101	28
+		UNIQUE	107	94106	24
+San Joaquin County	Acampo	STANDARD	6,440	95220	1	6,440
+San Joaquin County	Clements	PO BOX	992	95227	1	992
+San Joaquin County	Escalon	STANDARD	12,000	95320	1	12,000
+San Joaquin County	Farmington	STANDARD	760	95230	1	760
+San Joaquin County	French Camp	STANDARD	3,820	95231	1	3,820
+San Joaquin County	Holt	PO BOX	465	95234	1	465
+San Joaquin County	Lathrop	STANDARD	20,940	95330	1	20,940
+San Joaquin County	Linden	STANDARD	6,140	95236	1	6,140
+San Joaquin County	Lockeford	STANDARD	3,760	95237	1	3,760
+San Joaquin County	Lodi	PO BOX	2,374	95241	1	66,504
+		STANDARD	64,130	95240	2
+San Joaquin County	Manteca	STANDARD	76,300	95336	2	76,300
+San Joaquin County	Ripon	STANDARD	16,750	95366	1	16,750
+San Joaquin County	Stockton	PO BOX	5,491	95201	5	334,456
+		STANDARD	328,900	95202	11
+		UNIQUE	65	95211	3
+San Joaquin County	Thornton	PO BOX	991	95686	1	991
+San Joaquin County	Tracy	PO BOX	1,109	95378	1	110,539
+		STANDARD	109,430	95304	4
+San Joaquin County	Victor	PO BOX	802	95253	1	802
+San Joaquin County	Woodbridge	STANDARD	5,300	95258	1	5,300
+San Luis Obispo County	Arroyo Grande	PO BOX	1,206	93421	1	26,996
+		STANDARD	25,790	93420	1
+San Luis Obispo County	Atascadero	PO BOX	2,889	93423	1	29,989
+		STANDARD	27,100	93422	1
+San Luis Obispo County	Avila Beach	PO BOX	1,129	93424	1	1,129
+San Luis Obispo County	Cambria	STANDARD	5,910	93428	1	5,910
+San Luis Obispo County	Cayucos	STANDARD	2,560	93430	1	2,560
+San Luis Obispo County	Creston	STANDARD	1,260	93432	1	1,260
+San Luis Obispo County	Grover Beach	PO BOX	1,139	93483	1	12,389
+		STANDARD	11,250	93433	1
+San Luis Obispo County	Harmony	PO BOX	66	93435	1	66
+San Luis Obispo County	Los Osos	PO BOX	816	93412	1	13,286
+		STANDARD	12,470	93402	1
+San Luis Obispo County	Morro Bay	PO BOX	1,126	93443	1	10,166
+		STANDARD	9,040	93442	1
+San Luis Obispo County	Nipomo	STANDARD	19,850	93444	1	19,850
+San Luis Obispo County	Oceano	PO BOX	1,060	93475	1	6,980
+		STANDARD	5,920	93445	1
+San Luis Obispo County	Paso Robles	PO BOX	4,523	93447	1	45,693
+		STANDARD	41,170	93446	1
+San Luis Obispo County	Pismo Beach	PO BOX	1,454	93448	1	8,214
+		STANDARD	6,760	93449	1
+San Luis Obispo County	San Luis Obispo	PO BOX	2,736	93403	2	38,634
+		STANDARD	35,871	93401	4
+		UNIQUE	27	93408	2
+San Luis Obispo County	San Miguel	STANDARD	4,530	93451	1	4,530
+San Luis Obispo County	San Simeon	STANDARD	430	93452	1	430
+San Luis Obispo County	Santa Margarita	STANDARD	2,600	93453	1	2,600
+San Luis Obispo County	Shandon	STANDARD	1,740	93461	1	1,740
+San Luis Obispo County	Templeton	STANDARD	9,630	93465	1	9,630
+San Mateo County	Atherton	STANDARD	6,020	94027	1	6,020
+San Mateo County	Belmont	STANDARD	26,240	94002	1	26,240
+San Mateo County	Brisbane	STANDARD	5,190	94005	1	5,190
+San Mateo County	Burlingame	PO BOX	1,072	94011	1	41,682
+		STANDARD	40,610	94010	1
+San Mateo County	Daly City	PO BOX	1,131	94016	2	104,601
+		STANDARD	103,470	94014	2
+		UNIQUE	0	94013	1
+San Mateo County	El Granada	PO BOX	3,659	94018	1	3,659
+San Mateo County	Half Moon Bay	STANDARD	15,880	94019	1	15,880
+San Mateo County	La Honda	STANDARD	1,320	94020	1	1,320
+San Mateo County	Loma Mar	STANDARD	170	94021	1	170
+San Mateo County	Menlo Park	PO BOX	1,255	94026	1	40,345
+		STANDARD	39,090	94025	1
+San Mateo County	Millbrae	STANDARD	21,990	94030	1	21,990
+San Mateo County	Montara	PO BOX	2,713	94037	1	2,713
+San Mateo County	Moss Beach	STANDARD	2,940	94038	1	2,940
+San Mateo County	Pacifica	STANDARD	36,670	94044	1	36,670
+San Mateo County	Palo Alto	STANDARD	49,510	94303	1	49,510
+San Mateo County	Pescadero	STANDARD	1,690	94060	1	1,690
+San Mateo County	Portola Valley	STANDARD	6,650	94028	1	6,650
+San Mateo County	Redwood City	PO BOX	1,343	94064	1	106,473
+		STANDARD	105,130	94061	4
+San Mateo County	San Bruno	STANDARD	43,530	94066	1	43,530
+San Mateo County	San Carlos	STANDARD	30,770	94070	1	30,770
+San Mateo County	San Francisco	STANDARD	691	94128	1	691
+San Mateo County	San Gregorio	STANDARD	200	94074	1	200
+San Mateo County	San Mateo	STANDARD	131,470	94401	4	131,470
+		UNIQUE	0	94497	1
+San Mateo County	South San Francisco	PO BOX	933	94083	1	67,413
+		STANDARD	66,480	94080	1
+Santa Barbara County	Buellton	STANDARD	5,790	93427	1	5,790
+Santa Barbara County	Carpinteria	PO BOX	1,305	93014	1	17,225
+		STANDARD	15,920	93013	1
+Santa Barbara County	Casmalia	PO BOX	106	93429	1	106
+Santa Barbara County	Goleta	PO BOX	1,640	93116	2	34,320
+		STANDARD	32,680	93117	1
+		UNIQUE	0	93199	1
+Santa Barbara County	Guadalupe	STANDARD	7,840	93434	1	7,840
+Santa Barbara County	Lompoc	PO BOX	1,635	93438	1	52,165
+		STANDARD	50,530	93436	2
+Santa Barbara County	Los Alamos	PO BOX	1,721	93440	1	1,721
+Santa Barbara County	Los Olivos	PO BOX	1,556	93441	1	1,556
+Santa Barbara County	New Cuyama	STANDARD	830	93254	1	830
+Santa Barbara County	Santa Barbara	PO BOX	8,075	93102	9	124,943
+		STANDARD	116,830	93101	7
+		UNIQUE	38	93106	1
+Santa Barbara County	Santa Maria	PO BOX	4,574	93456	2	153,584
+		STANDARD	149,010	93454	3
+Santa Barbara County	Santa Ynez	STANDARD	5,410	93460	1	5,410
+Santa Barbara County	Solvang	PO BOX	942	93464	1	7,552
+		STANDARD	6,610	93463	1
+Santa Barbara County	Summerland	PO BOX	1,366	93067	1	1,366
+Santa Clara County	Alviso	PO BOX	2,042	95002	1	2,042
+Santa Clara County	Campbell	PO BOX	1,523	95009	2	44,973
+		STANDARD	43,450	95008	1
+Santa Clara County	Coyote	PO BOX	184	95013	1	184
+Santa Clara County	Cupertino	PO BOX	1,088	95015	1	60,608
+		STANDARD	59,520	95014	1
+Santa Clara County	Gilroy	PO BOX	3,361	95021	1	63,631
+		STANDARD	60,270	95020	1
+Santa Clara County	Holy City	PO BOX	0	95026	1	0
+Santa Clara County	Los Altos	PO BOX	757	94023	1	43,437
+		STANDARD	42,680	94022	2
+Santa Clara County	Los Gatos	PO BOX	1,373	95031	1	40,053
+		STANDARD	38,680	95030	2
+Santa Clara County	Milpitas	PO BOX	1,396	95036	1	71,586
+		STANDARD	70,190	95035	1
+Santa Clara County	Morgan Hill	PO BOX	2,107	95038	1	49,177
+		STANDARD	47,070	95037	1
+Santa Clara County	Mount Hamilton	STANDARD	320	95140	1	320
+Santa Clara County	Mountain View	PO BOX	1,736	94035	3	75,756
+		STANDARD	74,020	94040	3
+Santa Clara County	New Almaden	PO BOX	115	95042	1	115
+Santa Clara County	Palo Alto	PO BOX	1,642	94302	2	47,672
+		STANDARD	46,030	94301	3
+Santa Clara County	Redwood Estates	PO BOX	294	95044	1	294
+Santa Clara County	San Jose	PO BOX	13,243	95103	21	1,000,126
+		STANDARD	986,836	95101	30
+		UNIQUE	47	95190	6
+Santa Clara County	San Martin	STANDARD	7,240	95046	1	7,240
+Santa Clara County	Santa Clara	PO BOX	2,649	95052	3	117,632
+		STANDARD	114,910	95050	3
+		UNIQUE	73	95053	1
+Santa Clara County	Saratoga	PO BOX	301	95071	1	32,451
+		STANDARD	32,150	95070	1
+Santa Clara County	Stanford	STANDARD	5,020	94305	1	5,020
+Santa Clara County	Sunnyvale	PO BOX	1,706	94088	1	148,166
+		STANDARD	146,460	94085	4
+Santa Cruz County	Aptos	PO BOX	1,628	95001	1	22,828
+		STANDARD	21,200	95003	1
+Santa Cruz County	Ben Lomond	STANDARD	5,580	95005	1	5,580
+Santa Cruz County	Boulder Creek	STANDARD	7,930	95006	1	7,930
+Santa Cruz County	Brookdale	PO BOX	744	95007	1	744
+Santa Cruz County	Capitola	STANDARD	8,920	95010	1	8,920
+Santa Cruz County	Davenport	STANDARD	870	95017	1	870
+Santa Cruz County	Felton	STANDARD	6,810	95018	1	6,810
+Santa Cruz County	Freedom	STANDARD	9,900	95019	1	9,900
+Santa Cruz County	Los Gatos	STANDARD	8,410	95033	1	8,410
+Santa Cruz County	Mount Hermon	PO BOX	709	95041	1	709
+Santa Cruz County	Santa Cruz	PO BOX	2,972	95061	2	77,252
+		STANDARD	74,280	95060	4
+Santa Cruz County	Scotts Valley	PO BOX	906	95067	1	14,666
+		STANDARD	13,760	95066	1
+Santa Cruz County	Soquel	STANDARD	10,170	95073	1	10,170
+Santa Cruz County	Watsonville	PO BOX	5,098	95077	1	95,318
+		STANDARD	90,220	95076	1
+Shasta County	Anderson	STANDARD	18,170	96007	1	18,170
+Shasta County	Bella Vista	STANDARD	1,450	96008	1	1,450
+Shasta County	Big Bend	PO BOX	88	96011	1	88
+Shasta County	Burney	STANDARD	3,290	96013	1	3,290
+Shasta County	Cassel	STANDARD	260	96016	1	260
+Shasta County	Castella	STANDARD	153	96017	1	153
+Shasta County	Fall River Mills	STANDARD	1,270	96028	1	1,270
+Shasta County	French Gulch	STANDARD	340	96033	1	340
+Shasta County	Hat Creek	STANDARD	200	96040	1	200
+Shasta County	Igo	STANDARD	590	96047	1	590
+Shasta County	Lakehead	STANDARD	800	96051	1	800
+Shasta County	Mcarthur	STANDARD	1,270	96056	1	1,270
+Shasta County	Millville	STANDARD	1,000	96062	1	1,000
+Shasta County	Montgomery Creek	STANDARD	260	96065	1	260
+Shasta County	Oak Run	STANDARD	680	96069	1	680
+Shasta County	Obrien	PO BOX	0	96070	1	0
+Shasta County	Old Station	STANDARD	109	96071	1	109
+Shasta County	Palo Cedro	STANDARD	4,410	96073	1	4,410
+Shasta County	Redding	PO BOX	2,473	96099	1	91,003
+		STANDARD	88,530	96001	3
+Shasta County	Round Mountain	PO BOX	454	96084	1	454
+Shasta County	Shasta	PO BOX	1,044	96087	1	1,044
+Shasta County	Shasta Lake	PO BOX	757	96079	2	8,337
+		STANDARD	7,580	96019	1
+Shasta County	Shingletown	STANDARD	3,490	96088	1	3,490
+Shasta County	Whiskeytown	PO BOX	0	96095	1	0
+Shasta County	Whitmore	STANDARD	580	96096	1	580
+Sierra County	Alleghany	STANDARD	29	95910	1	29
+Sierra County	Calpine	STANDARD	240	96124	1	240
+Sierra County	Downieville	PO BOX	374	95936	1	374
+Sierra County	Floriston	PO BOX	57	96111	1	57
+Sierra County	Goodyears Bar	PO BOX	43	95944	1	43
+Sierra County	Loyalton	STANDARD	1,200	96118	1	1,200
+Sierra County	Sierra City	STANDARD	200	96125	1	200
+Sierra County	Sierraville	STANDARD	296	96126	1	296
+Siskiyou County	Callahan	STANDARD	163	96014	1	163
+Siskiyou County	Dorris	STANDARD	1,000	96023	1	1,000
+Siskiyou County	Dunsmuir	STANDARD	1,560	96025	1	1,560
+Siskiyou County	Etna	STANDARD	1,660	96027	1	1,660
+Siskiyou County	Forks Of Salmon	STANDARD	70	96031	1	70
+Siskiyou County	Fort Jones	STANDARD	1,880	96032	1	1,880
+Siskiyou County	Gazelle	STANDARD	220	96034	1	220
+Siskiyou County	Greenview	PO BOX	374	96037	1	374
+Siskiyou County	Grenada	STANDARD	570	96038	1	570
+Siskiyou County	Happy Camp	STANDARD	770	96039	1	770
+Siskiyou County	Hornbrook	STANDARD	710	96044	1	710
+Siskiyou County	Klamath River	STANDARD	250	96050	1	250
+Siskiyou County	Macdoel	STANDARD	660	96058	1	660
+Siskiyou County	Mccloud	STANDARD	850	96057	1	850
+Siskiyou County	Montague	STANDARD	3,260	96064	1	3,260
+Siskiyou County	Mount Shasta	STANDARD	6,200	96067	1	6,200
+Siskiyou County	Redding	PO BOX	2,731	96049	1	2,731
+Siskiyou County	Scott Bar	STANDARD	53	96085	1	53
+Siskiyou County	Seiad Valley	STANDARD	190	96086	1	190
+Siskiyou County	Somes Bar	STANDARD	144	95568	1	144
+Siskiyou County	Tulelake	STANDARD	2,040	96134	1	2,040
+Siskiyou County	Weed	STANDARD	5,050	96094	1	5,050
+Siskiyou County	Yreka	STANDARD	8,250	96097	1	8,250
+Solano County	Benicia	STANDARD	26,570	94510	1	26,570
+Solano County	Birds Landing	STANDARD	81	94512	1	81
+Solano County	Dixon	STANDARD	20,920	95620	1	20,920
+Solano County	Elmira	PO BOX	378	95625	1	378
+Solano County	Fairfield	STANDARD	106,110	94533	2	106,110
+Solano County	Rio Vista	STANDARD	8,230	94571	1	8,230
+Solano County	Suisun City	STANDARD	28,280	94585	1	28,280
+Solano County	Travis Afb	STANDARD	5,310	94535	1	5,310
+Solano County	Vacaville	PO BOX	2,254	95696	1	91,754
+		STANDARD	89,500	95687	2
+Solano County	Vallejo	STANDARD	113,320	94589	4	113,320
+Sonoma County	Annapolis	STANDARD	210	95412	1	210
+Sonoma County	Bodega	STANDARD	360	94922	1	360
+Sonoma County	Bodega Bay	STANDARD	1,240	94923	1	1,240
+Sonoma County	Boyes Hot Springs	PO BOX	3,784	95416	1	3,784
+Sonoma County	Camp Meeker	PO BOX	178	95419	1	178
+Sonoma County	Cazadero	STANDARD	1,050	95421	1	1,050
+Sonoma County	Cloverdale	STANDARD	10,710	95425	1	10,710
+Sonoma County	Cotati	STANDARD	8,320	94931	1	8,320
+Sonoma County	Duncans Mills	PO BOX	199	95430	1	199
+Sonoma County	El Verano	PO BOX	937	95433	1	937
+Sonoma County	Eldridge	PO BOX	221	95431	1	221
+Sonoma County	Forestville	STANDARD	4,720	95436	1	4,720
+Sonoma County	Fulton	STANDARD	1,000	95439	1	1,000
+Sonoma County	Geyserville	STANDARD	2,950	95441	1	2,950
+Sonoma County	Glen Ellen	STANDARD	2,990	95442	1	2,990
+Sonoma County	Graton	STANDARD	1,340	95444	1	1,340
+Sonoma County	Guerneville	STANDARD	3,830	95446	1	3,830
+Sonoma County	Healdsburg	STANDARD	17,690	95448	1	17,690
+Sonoma County	Jenner	STANDARD	260	95450	1	260
+Sonoma County	Kenwood	STANDARD	1,490	95452	1	1,490
+Sonoma County	Monte Rio	STANDARD	810	95462	1	810
+Sonoma County	Occidental	STANDARD	1,690	95465	1	1,690
+Sonoma County	Penngrove	STANDARD	3,930	94951	1	3,930
+Sonoma County	Petaluma	PO BOX	2,108	94953	3	69,368
+		STANDARD	67,260	94952	3
+Sonoma County	Rio Nido	PO BOX	330	95471	1	330
+Sonoma County	Rohnert Park	PO BOX	635	94927	1	36,925
+		STANDARD	36,290	94928	1
+		UNIQUE	0	94926	1
+Sonoma County	Santa Rosa	PO BOX	4,357	95402	2	200,897
+		STANDARD	196,540	95401	6
+Sonoma County	Sebastopol	PO BOX	1,422	95473	1	24,912
+		STANDARD	23,490	95472	1
+Sonoma County	Sonoma	STANDARD	29,240	95476	1	29,240
+Sonoma County	Stewarts Point	STANDARD	142	95480	1	142
+Sonoma County	The Sea Ranch	PO BOX	439	95497	1	439
+Sonoma County	Villa Grande	PO BOX	116	95486	1	116
+Sonoma County	Vineburg	PO BOX	612	95487	1	612
+Sonoma County	Windsor	STANDARD	29,210	95492	1	29,210
+Stanislaus County	Ceres	STANDARD	42,080	95307	1	42,080
+Stanislaus County	Crows Landing	STANDARD	1,520	95313	1	1,520
+Stanislaus County	Denair	STANDARD	6,820	95316	1	6,820
+Stanislaus County	Empire	PO BOX	2,500	95319	1	2,500
+Stanislaus County	Hickman	STANDARD	1,270	95323	1	1,270
+Stanislaus County	Hughson	STANDARD	10,230	95326	1	10,230
+Stanislaus County	Keyes	STANDARD	3,480	95328	1	3,480
+Stanislaus County	Modesto	PO BOX	1,680	95352	2	230,100
+		STANDARD	228,420	95350	7
+		UNIQUE	0	95397	1
+Stanislaus County	Newman	STANDARD	12,390	95360	1	12,390
+Stanislaus County	Oakdale	STANDARD	29,700	95361	1	29,700
+Stanislaus County	Patterson	STANDARD	27,290	95363	1	27,290
+Stanislaus County	Riverbank	STANDARD	23,810	95367	1	23,810
+Stanislaus County	Salida	STANDARD	14,260	95368	1	14,260
+Stanislaus County	Turlock	PO BOX	2,439	95381	1	71,219
+		STANDARD	68,780	95380	2
+Stanislaus County	Vernalis	STANDARD	310	95385	1	310
+Stanislaus County	Waterford	STANDARD	10,200	95386	1	10,200
+Stanislaus County	Westley	PO BOX	1,344	95387	1	1,344
+Sutter County	Live Oak	STANDARD	9,640	95953	1	9,640
+Sutter County	Meridian	STANDARD	640	95957	1	640
+Sutter County	Nicolaus	STANDARD	620	95659	1	620
+Sutter County	Pleasant Grove	STANDARD	750	95668	1	750
+Sutter County	Rio Oso	STANDARD	790	95674	1	790
+Sutter County	Robbins	PO BOX	458	95676	1	458
+Sutter County	Sutter	STANDARD	3,050	95982	1	3,050
+Sutter County	Yuba City	PO BOX	2,201	95992	1	71,281
+		STANDARD	69,080	95991	2
+Tehama County	Corning	STANDARD	13,730	96021	1	13,730
+Tehama County	Cottonwood	STANDARD	13,440	96022	1	13,440
+Tehama County	Flournoy	STANDARD	156	96029	1	156
+Tehama County	Gerber	STANDARD	2,560	96035	1	2,560
+Tehama County	Los Molinos	STANDARD	3,100	96055	1	3,100
+Tehama County	Manton	STANDARD	390	96059	1	390
+Tehama County	Mill Creek	STANDARD	0	96061	1	0
+Tehama County	Mineral	PO BOX	129	96063	1	129
+Tehama County	Paskenta	PO BOX	146	96074	1	146
+Tehama County	Paynes Creek	STANDARD	207	96075	1	207
+Tehama County	Proberta	PO BOX	358	96078	1	358
+Tehama County	Red Bluff	STANDARD	23,500	96080	1	23,500
+Tehama County	Tehama	PO BOX	410	96090	1	410
+Tehama County	Vina	PO BOX	500	96092	1	500
+Trinity County	Big Bar	STANDARD	142	96010	1	142
+Trinity County	Burnt Ranch	STANDARD	190	95527	1	190
+Trinity County	Douglas City	STANDARD	570	96024	1	570
+Trinity County	Hayfork	STANDARD	1,410	96041	1	1,410
+Trinity County	Hyampom	PO BOX	142	96046	1	142
+Trinity County	Junction City	STANDARD	470	96048	1	470
+Trinity County	Lewiston	STANDARD	870	96052	1	870
+Trinity County	Mad River	STANDARD	240	95552	1	240
+Trinity County	Platina	STANDARD	126	96076	1	126
+Trinity County	Salyer	PO BOX	416	95563	1	416
+Trinity County	Trinity Center	STANDARD	450	96091	1	450
+Trinity County	Weaverville	PO BOX	3,993	96093	1	3,993
+Trinity County	Zenia	STANDARD	132	95595	1	132
+Tulare County	Alpaugh	PO BOX	840	93201	1	840
+Tulare County	Badger	STANDARD	165	93603	1	165
+Tulare County	California Hot Springs	STANDARD	227	93207	1	227
+Tulare County	Camp Nelson	PO BOX	105	93208	1	105
+Tulare County	Cutler	STANDARD	5,890	93615	1	5,890
+Tulare County	Dinuba	STANDARD	29,170	93618	1	29,170
+Tulare County	Ducor	PO BOX	847	93218	1	847
+Tulare County	Earlimart	STANDARD	10,210	93219	1	10,210
+Tulare County	Exeter	STANDARD	12,940	93221	1	12,940
+Tulare County	Farmersville	STANDARD	10,190	93223	1	10,190
+Tulare County	Goshen	PO BOX	1,128	93227	1	1,128
+Tulare County	Ivanhoe	STANDARD	4,360	93235	1	4,360
+Tulare County	Kaweah	PO BOX	57	93237	1	57
+Tulare County	Kings Canyon National Pk	PO BOX	77	93633	1	77
+Tulare County	Lemon Cove	STANDARD	410	93244	1	410
+Tulare County	Lindsay	STANDARD	16,590	93247	1	16,590
+Tulare County	Orosi	STANDARD	11,220	93647	1	11,220
+Tulare County	Pixley	STANDARD	5,700	93256	1	5,700
+Tulare County	Porterville	PO BOX	6,084	93258	1	71,164
+		STANDARD	65,080	93257	1
+Tulare County	Posey	STANDARD	191	93260	1	191
+Tulare County	Richgrove	PO BOX	2,911	93261	1	2,911
+Tulare County	Sequoia National Park	STANDARD	39	93262	1	39
+Tulare County	Springville	STANDARD	3,300	93265	1	3,300
+Tulare County	Strathmore	STANDARD	5,930	93267	1	5,930
+Tulare County	Sultana	PO BOX	1,062	93666	1	1,062
+Tulare County	Terra Bella	STANDARD	6,370	93270	1	6,370
+Tulare County	Three Rivers	STANDARD	1,930	93271	1	1,930
+Tulare County	Tipton	STANDARD	3,990	93272	1	3,990
+Tulare County	Traver	PO BOX	1,065	93673	1	1,065
+Tulare County	Tulare	PO BOX	1,737	93275	1	68,567
+		STANDARD	66,830	93274	1
+Tulare County	Visalia	PO BOX	3,344	93278	3	133,594
+		STANDARD	130,250	93277	3
+Tulare County	Waukena	PO BOX	0	93282	1	0
+Tulare County	Woodlake	STANDARD	8,830	93286	1	8,830
+Tulare County	Yettem	PO BOX	271	93670	1	271
+Tuolumne County	Big Oak Flat	PO BOX	408	95305	1	408
+Tuolumne County	Chinese Camp	PO BOX	209	95309	1	209
+Tuolumne County	Columbia	STANDARD	1,830	95310	1	1,830
+Tuolumne County	Groveland	STANDARD	2,780	95321	1	2,780
+Tuolumne County	Jamestown	STANDARD	4,850	95327	1	4,850
+Tuolumne County	La Grange	STANDARD	1,950	95329	1	1,950
+Tuolumne County	Long Barn	STANDARD	230	95335	1	230
+Tuolumne County	Mi Wuk Village	STANDARD	960	95346	1	960
+Tuolumne County	Moccasin	PO BOX	185	95347	1	185
+Tuolumne County	Pinecrest	STANDARD	165	95314	2	165
+Tuolumne County	Sonora	STANDARD	21,290	95370	1	21,290
+Tuolumne County	Soulsbyville	STANDARD	2,270	95372	1	2,270
+Tuolumne County	Standard	PO BOX	293	95373	1	293
+Tuolumne County	Strawberry	PO BOX	101	95375	1	101
+Tuolumne County	Tuolumne	STANDARD	3,280	95379	1	3,280
+Tuolumne County	Twain Harte	STANDARD	3,530	95383	1	3,530
+Ventura County	Brandeis	UNIQUE	78	93064	1	78
+Ventura County	Camarillo	PO BOX	1,917	93011	1	73,897
+		STANDARD	71,980	93010	2
+Ventura County	Fillmore	PO BOX	1,526	93016	1	19,356
+		STANDARD	17,830	93015	1
+Ventura County	Moorpark	PO BOX	738	93020	1	37,758
+		STANDARD	37,020	93021	1
+Ventura County	Newbury Park	PO BOX	383	91319	1	44,743
+		STANDARD	44,360	91320	1
+Ventura County	Oak Park	STANDARD	13,350	91377	1	13,350
+Ventura County	Oak View	STANDARD	5,860	93022	1	5,860
+Ventura County	Ojai	PO BOX	1,338	93024	1	18,928
+		STANDARD	17,590	93023	1
+Ventura County	Oxnard	PO BOX	6,261	93031	3	244,061
+		STANDARD	237,800	93030	4
+Ventura County	Piru	PO BOX	2,120	93040	1	2,120
+Ventura County	Point Mugu Nawc	UNIQUE	439	93042	1	439
+Ventura County	Port Hueneme	PO BOX	2,074	93044	1	24,304
+		STANDARD	22,230	93041	1
+Ventura County	Port Hueneme Cbc Base	UNIQUE	194	93043	1	194
+Ventura County	Santa Paula	PO BOX	982	93061	1	35,592
+		STANDARD	34,610	93060	1
+Ventura County	Simi Valley	PO BOX	1,730	93062	2	122,780
+		STANDARD	121,050	93063	3
+		UNIQUE	0	93099	1
+Ventura County	Somis	STANDARD	3,430	93066	1	3,430
+Ventura County	Thousand Oaks	PO BOX	554	91358	1	76,064
+		STANDARD	75,510	91360	2
+Ventura County	Ventura	PO BOX	4,196	93002	4	107,799
+		STANDARD	103,570	93001	3
+		UNIQUE	33	93009	1
+Ventura County	Westlake Village	STANDARD	19,620	91361	1	19,620
+Yolo County	Brooks	STANDARD	230	95606	1	230
+Yolo County	Capay	STANDARD	220	95607	1	220
+Yolo County	Clarksburg	STANDARD	1,510	95612	1	1,510
+Yolo County	Davis	PO BOX	1,869	95617	1	50,429
+		STANDARD	48,560	95616	2
+Yolo County	Dunnigan	PO BOX	1,238	95937	1	1,238
+Yolo County	Esparto	STANDARD	3,790	95627	1	3,790
+Yolo County	Guinda	STANDARD	280	95637	1	280
+Yolo County	Knights Landing	STANDARD	1,700	95645	1	1,700
+Yolo County	Madison	PO BOX	623	95653	1	623
+Yolo County	Rumsey	PO BOX	87	95679	1	87
+Yolo County	West Sacramento	PO BOX	362	95798	2	46,682
+		STANDARD	46,320	95605	2
+Yolo County	Winters	STANDARD	9,580	95694	1	9,580
+Yolo County	Woodland	STANDARD	59,040	95695	2	59,040
+Yolo County	Yolo	PO BOX	977	95697	1	977
+Yolo County	Zamora	PO BOX	254	95698	1	254
+Yuba County	Beale Afb	STANDARD	2,190	95903	1	2,190
+Yuba County	Browns Valley	STANDARD	1,810	95918	1	1,810
+Yuba County	Brownsville	STANDARD	930	95919	1	930
+Yuba County	Camptonville	STANDARD	380	95922	1	380
+Yuba County	Challenge	STANDARD	224	95925	1	224
+Yuba County	Dobbins	STANDARD	500	95935	1	500
+Yuba County	Marysville	STANDARD	26,870	95901	1	26,870
+Yuba County	Olivehurst	STANDARD	23,530	95961	1	23,530
+Yuba County	Oregon House	STANDARD	1,200	95962	1	1,200
+Yuba County	Rackerby	STANDARD	199	95972	1	199
+Yuba County	Strawberry Valley	STANDARD	72	95981	1	72
+Yuba County	Wheatland	STANDARD	4,410	95692	1	4,410
